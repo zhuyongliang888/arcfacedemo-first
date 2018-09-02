@@ -1,0 +1,227 @@
+2018-09-01 19:06:21 [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][50]->Starting ArcfacedemoFirstApplication on zyl-fortytwo with PID 5160 (E:\soft_dev\eclipse_workspace\arcfacedemo-first\target\classes started by Administrator in E:\soft_dev\eclipse_workspace\arcfacedemo-first)
+2018-09-01 19:06:21 [DEBUG][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][53]->Running with Spring Boot v2.0.1.RELEASE, Spring v5.0.5.RELEASE
+2018-09-01 19:06:21 [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStartupProfileInfo][663]->The following profiles are active: dev
+2018-09-01 19:12:29 [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][50]->Starting ArcfacedemoFirstApplication on zyl-fortytwo with PID 1380 (E:\soft_dev\eclipse_workspace\arcfacedemo-first\target\classes started by Administrator in E:\soft_dev\eclipse_workspace\arcfacedemo-first)
+2018-09-01 19:12:29 [DEBUG][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][53]->Running with Spring Boot v2.0.1.RELEASE, Spring v5.0.5.RELEASE
+2018-09-01 19:12:29 [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStartupProfileInfo][663]->The following profiles are active: dev
+2018-09-01 19:26:35 [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][50]->Starting ArcfacedemoFirstApplication on zyl-fortytwo with PID 3888 (E:\soft_dev\eclipse_workspace\arcfacedemo-first\target\classes started by Administrator in E:\soft_dev\eclipse_workspace\arcfacedemo-first)
+2018-09-01 19:26:35 [DEBUG][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][53]->Running with Spring Boot v2.0.1.RELEASE, Spring v5.0.5.RELEASE
+2018-09-01 19:26:35 [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStartupProfileInfo][663]->The following profiles are active: dev
+2018-09-01 19:37:40 [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][50]->Starting ArcfacedemoFirstApplication on zyl-fortytwo with PID 912 (E:\soft_dev\eclipse_workspace\arcfacedemo-first\target\classes started by Administrator in E:\soft_dev\eclipse_workspace\arcfacedemo-first)
+2018-09-01 19:37:40 [DEBUG][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][53]->Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+2018-09-01 19:37:40 [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStartupProfileInfo][666]->The following profiles are active: dev
+2018-09-01 19:37:56 [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarted][59]->Started ArcfacedemoFirstApplication in 17.89 seconds (JVM running for 20.264)
+2018-09-01 19:40:41 [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][50]->Starting ArcfacedemoFirstApplication on zyl-fortytwo with PID 912 (E:\soft_dev\eclipse_workspace\arcfacedemo-first\target\classes started by Administrator in E:\soft_dev\eclipse_workspace\arcfacedemo-first)
+2018-09-01 19:40:41 [DEBUG][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][53]->Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+2018-09-01 19:40:41 [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStartupProfileInfo][666]->The following profiles are active: dev
+2018-09-01 19:40:53 [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarted][59]->Started ArcfacedemoFirstApplication in 12.82 seconds (JVM running for 197.947)
+2018-09-01 19:42:58 [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][50]->Starting ArcfacedemoFirstApplication on zyl-fortytwo with PID 912 (E:\soft_dev\eclipse_workspace\arcfacedemo-first\target\classes started by Administrator in E:\soft_dev\eclipse_workspace\arcfacedemo-first)
+2018-09-01 19:42:58 [DEBUG][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][53]->Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+2018-09-01 19:42:58 [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStartupProfileInfo][666]->The following profiles are active: dev
+2018-09-01 19:43:08 [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarted][59]->Started ArcfacedemoFirstApplication in 10.693 seconds (JVM running for 333.191)
+2018-09-01 19:46:54 [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][50]->Starting ArcfacedemoFirstApplication on zyl-fortytwo with PID 3172 (E:\soft_dev\eclipse_workspace\arcfacedemo-first\target\classes started by Administrator in E:\soft_dev\eclipse_workspace\arcfacedemo-first)
+2018-09-01 19:46:54 [DEBUG][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][53]->Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+2018-09-01 19:46:54 [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStartupProfileInfo][666]->The following profiles are active: dev
+2018-09-01 19:47:10 [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarted][59]->Started ArcfacedemoFirstApplication in 18.945 seconds (JVM running for 21.463)
+2018-09-01 19:51:20 [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][50]->Starting ArcfacedemoFirstApplication on zyl-fortytwo with PID 3172 (E:\soft_dev\eclipse_workspace\arcfacedemo-first\target\classes started by Administrator in E:\soft_dev\eclipse_workspace\arcfacedemo-first)
+2018-09-01 19:51:20 [DEBUG][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][53]->Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+2018-09-01 19:51:20 [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStartupProfileInfo][666]->The following profiles are active: dev
+2018-09-01 19:51:25 [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarted][59]->Started ArcfacedemoFirstApplication in 5.662 seconds (JVM running for 276.724)
+2018-09-01 19:51:33 [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][50]->Starting ArcfacedemoFirstApplication on zyl-fortytwo with PID 3172 (E:\soft_dev\eclipse_workspace\arcfacedemo-first\target\classes started by Administrator in E:\soft_dev\eclipse_workspace\arcfacedemo-first)
+2018-09-01 19:51:33 [DEBUG][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][53]->Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+2018-09-01 19:51:33 [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStartupProfileInfo][666]->The following profiles are active: dev
+2018-09-01 19:51:37 [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarted][59]->Started ArcfacedemoFirstApplication in 3.722 seconds (JVM running for 288.354)
+2018-09-01 19:51:38 [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRegister][70]->new file name is 29423318-0c16-4d38-9122-9078381ff44f.jpg
+2018-09-01 19:51:38 [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRegister][73]->new file name is 29423318-0c16-4d38-9122-9078381ff44f.jpg
+2018-09-01 19:52:08 [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRegister][70]->new file name is b6dec794-1d1e-4f9e-b234-c54e98060d7c.jpg
+2018-09-01 19:52:08 [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRegister][73]->new file name is b6dec794-1d1e-4f9e-b234-c54e98060d7c.jpg
+2018-09-01 19:52:55 [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][50]->Starting ArcfacedemoFirstApplication on zyl-fortytwo with PID 3172 (E:\soft_dev\eclipse_workspace\arcfacedemo-first\target\classes started by Administrator in E:\soft_dev\eclipse_workspace\arcfacedemo-first)
+2018-09-01 19:52:55 [DEBUG][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][53]->Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+2018-09-01 19:52:55 [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStartupProfileInfo][666]->The following profiles are active: dev
+2018-09-01 19:53:00 [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarted][59]->Started ArcfacedemoFirstApplication in 5.358 seconds (JVM running for 371.627)
+2018-09-01 19:53:05 [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRegister][70]->new file name is 36809a8e-b693-4cfa-b714-485a53b6f846.jpg
+2018-09-01 19:53:05 [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRegister][73]->new file name is 36809a8e-b693-4cfa-b714-485a53b6f846.jpg
+2018-09-01 19:53:17 [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][50]->Starting ArcfacedemoFirstApplication on zyl-fortytwo with PID 3172 (E:\soft_dev\eclipse_workspace\arcfacedemo-first\target\classes started by Administrator in E:\soft_dev\eclipse_workspace\arcfacedemo-first)
+2018-09-01 19:53:17 [DEBUG][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][53]->Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+2018-09-01 19:53:17 [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStartupProfileInfo][666]->The following profiles are active: dev
+2018-09-01 19:53:20 [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarted][59]->Started ArcfacedemoFirstApplication in 3.152 seconds (JVM running for 391.305)
+2018-09-01 19:54:07 [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRegister][70]->new file name is 4cb812db-e5c8-49e2-b08e-379aaa22695c.jpg
+2018-09-01 19:54:07 [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRegister][73]->new file name is 4cb812db-e5c8-49e2-b08e-379aaa22695c.jpg
+2018-09-01 19:54:28 [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][50]->Starting ArcfacedemoFirstApplication on zyl-fortytwo with PID 3172 (E:\soft_dev\eclipse_workspace\arcfacedemo-first\target\classes started by Administrator in E:\soft_dev\eclipse_workspace\arcfacedemo-first)
+2018-09-01 19:54:29 [DEBUG][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][53]->Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+2018-09-01 19:54:29 [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStartupProfileInfo][666]->The following profiles are active: dev
+2018-09-01 19:54:31 [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarted][59]->Started ArcfacedemoFirstApplication in 2.48 seconds (JVM running for 462.248)
+2018-09-01 23:45:36 [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][50]->Starting ArcfacedemoFirstApplication on zyl-fortytwo with PID 3208 (E:\soft_dev\eclipse_workspace\arcfacedemo-first\target\classes started by Administrator in E:\soft_dev\eclipse_workspace\arcfacedemo-first)
+2018-09-01 23:45:36 [DEBUG][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][53]->Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+2018-09-01 23:45:36 [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStartupProfileInfo][666]->The following profiles are active: dev
+2018-09-01 23:45:54 [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarted][59]->Started ArcfacedemoFirstApplication in 21.677 seconds (JVM running for 23.638)
+2018-09-01 23:46:43 [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRegister][75]->new file name is 453f06da-a087-483f-a74e-be4d5696b5b1.jpg
+2018-09-01 23:46:43 [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRegister][78]->new file name is 453f06da-a087-483f-a74e-be4d5696b5b1.jpg
+2018-09-01 23:48:44 [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][50]->Starting ArcfacedemoFirstApplication on zyl-fortytwo with PID 3208 (E:\soft_dev\eclipse_workspace\arcfacedemo-first\target\classes started by Administrator in E:\soft_dev\eclipse_workspace\arcfacedemo-first)
+2018-09-01 23:48:44 [DEBUG][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][53]->Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+2018-09-01 23:48:44 [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStartupProfileInfo][666]->The following profiles are active: dev
+2018-09-01 23:48:52 [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarted][59]->Started ArcfacedemoFirstApplication in 8.129 seconds (JVM running for 201.382)
+2018-09-01 23:49:05 [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][50]->Starting ArcfacedemoFirstApplication on zyl-fortytwo with PID 3208 (E:\soft_dev\eclipse_workspace\arcfacedemo-first\target\classes started by Administrator in E:\soft_dev\eclipse_workspace\arcfacedemo-first)
+2018-09-01 23:49:05 [DEBUG][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][53]->Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+2018-09-01 23:49:05 [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStartupProfileInfo][666]->The following profiles are active: dev
+2018-09-01 23:49:13 [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarted][59]->Started ArcfacedemoFirstApplication in 9.693 seconds (JVM running for 222.836)
+2018-09-01 23:49:48 [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][50]->Starting ArcfacedemoFirstApplication on zyl-fortytwo with PID 3208 (E:\soft_dev\eclipse_workspace\arcfacedemo-first\target\classes started by Administrator in E:\soft_dev\eclipse_workspace\arcfacedemo-first)
+2018-09-01 23:49:48 [DEBUG][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][53]->Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+2018-09-01 23:49:48 [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStartupProfileInfo][666]->The following profiles are active: dev
+2018-09-01 23:49:51 [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarted][59]->Started ArcfacedemoFirstApplication in 2.726 seconds (JVM running for 260.333)
+2018-09-01 23:49:53 [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRegister][75]->new file name is 95ee0917-d6e8-47ab-b417-446f7b17ba81.jpg
+2018-09-01 23:49:53 [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRegister][78]->new file name is 95ee0917-d6e8-47ab-b417-446f7b17ba81.jpg
+2018-09-02 00:03:24 [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][50]->Starting ArcfacedemoFirstApplication on zyl-fortytwo with PID 3208 (E:\soft_dev\eclipse_workspace\arcfacedemo-first\target\classes started by Administrator in E:\soft_dev\eclipse_workspace\arcfacedemo-first)
+2018-09-02 00:03:24 [DEBUG][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][53]->Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+2018-09-02 00:03:24 [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStartupProfileInfo][666]->The following profiles are active: dev
+2018-09-02 00:03:29 [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarted][59]->Started ArcfacedemoFirstApplication in 5.262 seconds (JVM running for 1078.673)
+2018-09-02 00:04:32 [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][50]->Starting ArcfacedemoFirstApplication on zyl-fortytwo with PID 3208 (E:\soft_dev\eclipse_workspace\arcfacedemo-first\target\classes started by Administrator in E:\soft_dev\eclipse_workspace\arcfacedemo-first)
+2018-09-02 00:04:32 [DEBUG][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][53]->Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+2018-09-02 00:04:32 [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStartupProfileInfo][666]->The following profiles are active: dev
+2018-09-02 00:04:37 [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarted][59]->Started ArcfacedemoFirstApplication in 5.435 seconds (JVM running for 1146.955)
+2018-09-02 00:05:54 [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][50]->Starting ArcfacedemoFirstApplication on zyl-fortytwo with PID 3208 (E:\soft_dev\eclipse_workspace\arcfacedemo-first\target\classes started by Administrator in E:\soft_dev\eclipse_workspace\arcfacedemo-first)
+2018-09-02 00:05:54 [DEBUG][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][53]->Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+2018-09-02 00:05:54 [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStartupProfileInfo][666]->The following profiles are active: dev
+2018-09-02 00:05:56 [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarted][59]->Started ArcfacedemoFirstApplication in 2.492 seconds (JVM running for 1225.48)
+2018-09-02 00:08:21 [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][50]->Starting ArcfacedemoFirstApplication on zyl-fortytwo with PID 3208 (E:\soft_dev\eclipse_workspace\arcfacedemo-first\target\classes started by Administrator in E:\soft_dev\eclipse_workspace\arcfacedemo-first)
+2018-09-02 00:08:21 [DEBUG][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][53]->Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+2018-09-02 00:08:21 [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStartupProfileInfo][666]->The following profiles are active: dev
+2018-09-02 00:08:24 [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarted][59]->Started ArcfacedemoFirstApplication in 2.404 seconds (JVM running for 1373.049)
+2018-09-02 00:13:57 [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][50]->Starting ArcfacedemoFirstApplication on zyl-fortytwo with PID 3208 (E:\soft_dev\eclipse_workspace\arcfacedemo-first\target\classes started by Administrator in E:\soft_dev\eclipse_workspace\arcfacedemo-first)
+2018-09-02 00:13:57 [DEBUG][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][53]->Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+2018-09-02 00:13:57 [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStartupProfileInfo][666]->The following profiles are active: dev
+2018-09-02 00:14:01 [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarted][59]->Started ArcfacedemoFirstApplication in 3.486 seconds (JVM running for 1710.199)
+2018-09-02 00:15:31 [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][50]->Starting ArcfacedemoFirstApplication on zyl-fortytwo with PID 3208 (E:\soft_dev\eclipse_workspace\arcfacedemo-first\target\classes started by Administrator in E:\soft_dev\eclipse_workspace\arcfacedemo-first)
+2018-09-02 00:15:31 [DEBUG][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][53]->Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+2018-09-02 00:15:31 [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStartupProfileInfo][666]->The following profiles are active: dev
+2018-09-02 00:15:33 [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarted][59]->Started ArcfacedemoFirstApplication in 2.346 seconds (JVM running for 1802.777)
+2018-09-02 00:15:55 [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][50]->Starting ArcfacedemoFirstApplication on zyl-fortytwo with PID 3208 (E:\soft_dev\eclipse_workspace\arcfacedemo-first\target\classes started by Administrator in E:\soft_dev\eclipse_workspace\arcfacedemo-first)
+2018-09-02 00:15:55 [DEBUG][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][53]->Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+2018-09-02 00:15:55 [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStartupProfileInfo][666]->The following profiles are active: dev
+2018-09-02 00:15:58 [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarted][59]->Started ArcfacedemoFirstApplication in 3.388 seconds (JVM running for 1827.46)
+2018-09-02 00:28:23 [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][50]->Starting ArcfacedemoFirstApplication on zyl-fortytwo with PID 3472 (E:\soft_dev\eclipse_workspace\arcfacedemo-first\target\classes started by Administrator in E:\soft_dev\eclipse_workspace\arcfacedemo-first)
+2018-09-02 00:28:23 [DEBUG][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][53]->Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+2018-09-02 00:28:23 [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStartupProfileInfo][666]->The following profiles are active: dev
+2018-09-02 00:28:41 [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarted][59]->Started ArcfacedemoFirstApplication in 19.683 seconds (JVM running for 21.517)
+2018-09-02 00:29:27 [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRegister][78]->new file name is f71349c9-e631-4ea6-a827-c7daad89d2b8.jpg
+2018-09-02 00:29:27 [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRegister][81]->new file name is f71349c9-e631-4ea6-a827-c7daad89d2b8.jpg
+2018-09-02 00:31:05 [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][50]->Starting ArcfacedemoFirstApplication on zyl-fortytwo with PID 3472 (E:\soft_dev\eclipse_workspace\arcfacedemo-first\target\classes started by Administrator in E:\soft_dev\eclipse_workspace\arcfacedemo-first)
+2018-09-02 00:31:05 [DEBUG][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][53]->Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+2018-09-02 00:31:05 [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStartupProfileInfo][666]->The following profiles are active: dev
+2018-09-02 00:31:12 [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarted][59]->Started ArcfacedemoFirstApplication in 7.483 seconds (JVM running for 172.673)
+2018-09-02 00:33:23 [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][50]->Starting ArcfacedemoFirstApplication on zyl-fortytwo with PID 3472 (E:\soft_dev\eclipse_workspace\arcfacedemo-first\target\classes started by Administrator in E:\soft_dev\eclipse_workspace\arcfacedemo-first)
+2018-09-02 00:33:23 [DEBUG][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][53]->Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+2018-09-02 00:33:23 [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStartupProfileInfo][666]->The following profiles are active: dev
+2018-09-02 00:33:26 [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarted][59]->Started ArcfacedemoFirstApplication in 4.006 seconds (JVM running for 307.466)
+2018-09-02 00:38:41 [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][50]->Starting ArcfacedemoFirstApplication on zyl-fortytwo with PID 3472 (E:\soft_dev\eclipse_workspace\arcfacedemo-first\target\classes started by Administrator in E:\soft_dev\eclipse_workspace\arcfacedemo-first)
+2018-09-02 00:38:41 [DEBUG][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][53]->Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+2018-09-02 00:38:41 [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStartupProfileInfo][666]->The following profiles are active: dev
+2018-09-02 00:38:47 [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarted][59]->Started ArcfacedemoFirstApplication in 5.738 seconds (JVM running for 627.494)
+2018-09-02 00:41:04 [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][50]->Starting ArcfacedemoFirstApplication on zyl-fortytwo with PID 3472 (E:\soft_dev\eclipse_workspace\arcfacedemo-first\target\classes started by Administrator in E:\soft_dev\eclipse_workspace\arcfacedemo-first)
+2018-09-02 00:41:04 [DEBUG][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][53]->Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+2018-09-02 00:41:04 [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStartupProfileInfo][666]->The following profiles are active: dev
+2018-09-02 00:41:07 [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarted][59]->Started ArcfacedemoFirstApplication in 3.226 seconds (JVM running for 767.699)
+2018-09-02 00:41:21 [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][50]->Starting ArcfacedemoFirstApplication on zyl-fortytwo with PID 4232 (E:\soft_dev\eclipse_workspace\arcfacedemo-first\target\classes started by Administrator in E:\soft_dev\eclipse_workspace\arcfacedemo-first)
+2018-09-02 00:41:21 [DEBUG][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][53]->Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+2018-09-02 00:41:21 [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStartupProfileInfo][666]->The following profiles are active: dev
+2018-09-02 00:41:36 [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarted][59]->Started ArcfacedemoFirstApplication in 16.244 seconds (JVM running for 18.198)
+2018-09-02 00:41:41 [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRegister][79]->new file name is a06127c6-dc78-4210-9a5b-27aaa1f366a3.jpg
+2018-09-02 00:41:41 [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRegister][82]->new file name is a06127c6-dc78-4210-9a5b-27aaa1f366a3.jpg
+2018-09-02 00:45:36 [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][50]->Starting ArcfacedemoFirstApplication on zyl-fortytwo with PID 2224 (E:\soft_dev\eclipse_workspace\arcfacedemo-first\target\classes started by Administrator in E:\soft_dev\eclipse_workspace\arcfacedemo-first)
+2018-09-02 00:45:36 [DEBUG][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][53]->Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+2018-09-02 00:45:36 [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStartupProfileInfo][666]->The following profiles are active: dev
+2018-09-02 00:45:44 [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarted][59]->Started ArcfacedemoFirstApplication in 9.234 seconds (JVM running for 11.12)
+2018-09-02 00:46:02 [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRegister][79]->new file name is a155e781-fb67-438f-a95a-7d60fcff9b6a.jpg
+2018-09-02 00:46:02 [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRegister][82]->new file name is a155e781-fb67-438f-a95a-7d60fcff9b6a.jpg
+2018-09-02 00:51:01 [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][50]->Starting ArcfacedemoFirstApplication on zyl-fortytwo with PID 2224 (E:\soft_dev\eclipse_workspace\arcfacedemo-first\target\classes started by Administrator in E:\soft_dev\eclipse_workspace\arcfacedemo-first)
+2018-09-02 00:51:01 [DEBUG][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][53]->Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+2018-09-02 00:51:01 [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStartupProfileInfo][666]->The following profiles are active: dev
+2018-09-02 00:51:03 [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarted][59]->Started ArcfacedemoFirstApplication in 2.437 seconds (JVM running for 330.534)
+2018-09-02 00:51:25 [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRegister][79]->new file name is 0b506a84-13ed-4f50-b3dd-987d9d2459d2.jpg
+2018-09-02 00:51:25 [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRegister][82]->new file name is 0b506a84-13ed-4f50-b3dd-987d9d2459d2.jpg
+2018-09-02 00:55:32 [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][50]->Starting ArcfacedemoFirstApplication on zyl-fortytwo with PID 5108 (E:\soft_dev\eclipse_workspace\arcfacedemo-first\target\classes started by Administrator in E:\soft_dev\eclipse_workspace\arcfacedemo-first)
+2018-09-02 00:55:32 [DEBUG][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][53]->Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+2018-09-02 00:55:32 [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStartupProfileInfo][666]->The following profiles are active: dev
+2018-09-02 00:55:40 [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarted][59]->Started ArcfacedemoFirstApplication in 9.093 seconds (JVM running for 10.852)
+2018-09-02 00:56:20 [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRegister][79]->new file name is a08a8162-8b47-4754-918a-6f0d322d42cd.jpg
+2018-09-02 00:56:20 [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRegister][82]->new file name is a08a8162-8b47-4754-918a-6f0d322d42cd.jpg
+2018-09-02 00:57:21 [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRegister][79]->new file name is e600e610-d0cc-4f7b-80ef-b134a06cf17c.jpg
+2018-09-02 00:57:21 [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRegister][82]->new file name is e600e610-d0cc-4f7b-80ef-b134a06cf17c.jpg
+2018-09-02 00:57:30 [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRegister][79]->new file name is 234c448d-b4d1-4343-8ed2-93055eaae9c3.jpg
+2018-09-02 00:57:30 [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRegister][82]->new file name is 234c448d-b4d1-4343-8ed2-93055eaae9c3.jpg
+2018-09-02 01:01:27 [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][50]->Starting ArcfacedemoFirstApplication on zyl-fortytwo with PID 5108 (E:\soft_dev\eclipse_workspace\arcfacedemo-first\target\classes started by Administrator in E:\soft_dev\eclipse_workspace\arcfacedemo-first)
+2018-09-02 01:01:27 [DEBUG][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][53]->Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+2018-09-02 01:01:27 [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStartupProfileInfo][666]->The following profiles are active: dev
+2018-09-02 01:01:29 [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarted][59]->Started ArcfacedemoFirstApplication in 2.259 seconds (JVM running for 360.311)
+2018-09-02 01:02:01 [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][50]->Starting ArcfacedemoFirstApplication on zyl-fortytwo with PID 5108 (E:\soft_dev\eclipse_workspace\arcfacedemo-first\target\classes started by Administrator in E:\soft_dev\eclipse_workspace\arcfacedemo-first)
+2018-09-02 01:02:01 [DEBUG][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][53]->Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+2018-09-02 01:02:01 [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStartupProfileInfo][666]->The following profiles are active: dev
+2018-09-02 01:02:03 [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarted][59]->Started ArcfacedemoFirstApplication in 1.965 seconds (JVM running for 394.327)
+2018-09-02 01:02:08 [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRegister][79]->new file name is 83ce4912-f713-4799-bbe7-f27e99555901.jpg
+2018-09-02 01:02:08 [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRegister][82]->new file name is 83ce4912-f713-4799-bbe7-f27e99555901.jpg
+2018-09-02 01:04:26 [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][50]->Starting ArcfacedemoFirstApplication on zyl-fortytwo with PID 5108 (E:\soft_dev\eclipse_workspace\arcfacedemo-first\target\classes started by Administrator in E:\soft_dev\eclipse_workspace\arcfacedemo-first)
+2018-09-02 01:04:26 [DEBUG][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][53]->Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+2018-09-02 01:04:26 [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStartupProfileInfo][666]->The following profiles are active: dev
+2018-09-02 01:04:28 [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarted][59]->Started ArcfacedemoFirstApplication in 2.041 seconds (JVM running for 539.458)
+2018-09-02 01:04:35 [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRegister][79]->new file name is bfda6dc9-cd95-4774-8155-d5a4deb6560d.jpg
+2018-09-02 01:04:35 [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRegister][82]->new file name is bfda6dc9-cd95-4774-8155-d5a4deb6560d.jpg
+2018-09-02 14:59:42 [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][50]->Starting ArcfacedemoFirstApplication on zyl-fortytwo with PID 3100 (E:\soft_dev\eclipse_workspace\arcfacedemo-first\target\classes started by Administrator in E:\soft_dev\eclipse_workspace\arcfacedemo-first)
+2018-09-02 14:59:42 [DEBUG][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][53]->Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+2018-09-02 14:59:42 [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStartupProfileInfo][666]->The following profiles are active: dev
+2018-09-02 14:59:56 [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarted][59]->Started ArcfacedemoFirstApplication in 16.13 seconds (JVM running for 19.128)
+2018-09-02 15:02:09 [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRegister][80]->new file name is 2c07281b-5b99-4a9c-ac86-53e144d3d29d.jpg
+2018-09-02 15:02:09 [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRegister][83]->new file name is 2c07281b-5b99-4a9c-ac86-53e144d3d29d.jpg
+2018-09-02 15:04:24 [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][50]->Starting ArcfacedemoFirstApplication on zyl-fortytwo with PID 3100 (E:\soft_dev\eclipse_workspace\arcfacedemo-first\target\classes started by Administrator in E:\soft_dev\eclipse_workspace\arcfacedemo-first)
+2018-09-02 15:04:24 [DEBUG][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][53]->Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+2018-09-02 15:04:24 [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStartupProfileInfo][666]->The following profiles are active: dev
+2018-09-02 15:04:28 [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarted][59]->Started ArcfacedemoFirstApplication in 4.37 seconds (JVM running for 291.918)
+2018-09-02 15:15:06 [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][50]->Starting ArcfacedemoFirstApplication on zyl-fortytwo with PID 3492 (E:\soft_dev\eclipse_workspace\arcfacedemo-first\target\classes started by Administrator in E:\soft_dev\eclipse_workspace\arcfacedemo-first)
+2018-09-02 15:15:06 [DEBUG][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][53]->Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+2018-09-02 15:15:06 [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStartupProfileInfo][666]->The following profiles are active: dev
+2018-09-02 15:15:14 [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarted][59]->Started ArcfacedemoFirstApplication in 9.999 seconds (JVM running for 11.972)
+2018-09-02 15:15:24 [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRegister][80]->new file name is b3befb32-0d30-48a1-a5bb-7ba6c21f394c.jpg
+2018-09-02 15:15:24 [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRegister][83]->new file name is b3befb32-0d30-48a1-a5bb-7ba6c21f394c.jpg
+2018-09-02 15:17:03 [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][50]->Starting ArcfacedemoFirstApplication on zyl-fortytwo with PID 3492 (E:\soft_dev\eclipse_workspace\arcfacedemo-first\target\classes started by Administrator in E:\soft_dev\eclipse_workspace\arcfacedemo-first)
+2018-09-02 15:17:03 [DEBUG][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][53]->Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+2018-09-02 15:17:03 [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStartupProfileInfo][666]->The following profiles are active: dev
+2018-09-02 15:17:06 [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarted][59]->Started ArcfacedemoFirstApplication in 4.216 seconds (JVM running for 124.035)
+2018-09-02 15:19:34 [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][50]->Starting ArcfacedemoFirstApplication on zyl-fortytwo with PID 3492 (E:\soft_dev\eclipse_workspace\arcfacedemo-first\target\classes started by Administrator in E:\soft_dev\eclipse_workspace\arcfacedemo-first)
+2018-09-02 15:19:34 [DEBUG][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][53]->Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+2018-09-02 15:19:34 [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStartupProfileInfo][666]->The following profiles are active: dev
+2018-09-02 15:19:37 [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarted][59]->Started ArcfacedemoFirstApplication in 3.356 seconds (JVM running for 274.636)
+2018-09-02 15:20:00 [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRegister][80]->new file name is 47ef7a2d-2d2f-4f20-b123-e19244419634.jpg
+2018-09-02 15:20:00 [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRegister][83]->new file name is 47ef7a2d-2d2f-4f20-b123-e19244419634.jpg
+2018-09-02 15:22:31 [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][50]->Starting ArcfacedemoFirstApplication on zyl-fortytwo with PID 3492 (E:\soft_dev\eclipse_workspace\arcfacedemo-first\target\classes started by Administrator in E:\soft_dev\eclipse_workspace\arcfacedemo-first)
+2018-09-02 15:22:31 [DEBUG][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][53]->Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+2018-09-02 15:22:31 [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStartupProfileInfo][666]->The following profiles are active: dev
+2018-09-02 15:22:34 [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarted][59]->Started ArcfacedemoFirstApplication in 3.061 seconds (JVM running for 451.403)
+2018-09-02 15:25:28 [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][50]->Starting ArcfacedemoFirstApplication on zyl-fortytwo with PID 3492 (E:\soft_dev\eclipse_workspace\arcfacedemo-first\target\classes started by Administrator in E:\soft_dev\eclipse_workspace\arcfacedemo-first)
+2018-09-02 15:25:28 [DEBUG][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][53]->Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+2018-09-02 15:25:28 [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStartupProfileInfo][666]->The following profiles are active: dev
+2018-09-02 15:25:30 [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarted][59]->Started ArcfacedemoFirstApplication in 2.357 seconds (JVM running for 627.854)
+2018-09-02 15:49:00 [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][50]->Starting ArcfacedemoFirstApplication on zyl-fortytwo with PID 3492 (E:\soft_dev\eclipse_workspace\arcfacedemo-first\target\classes started by Administrator in E:\soft_dev\eclipse_workspace\arcfacedemo-first)
+2018-09-02 15:49:00 [DEBUG][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][53]->Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+2018-09-02 15:49:00 [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStartupProfileInfo][666]->The following profiles are active: dev
+2018-09-02 15:49:03 [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarted][59]->Started ArcfacedemoFirstApplication in 3.337 seconds (JVM running for 2040.574)
+2018-09-02 15:52:01 [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][50]->Starting ArcfacedemoFirstApplication on zyl-fortytwo with PID 3492 (E:\soft_dev\eclipse_workspace\arcfacedemo-first\target\classes started by Administrator in E:\soft_dev\eclipse_workspace\arcfacedemo-first)
+2018-09-02 15:52:01 [DEBUG][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][53]->Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+2018-09-02 15:52:01 [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStartupProfileInfo][666]->The following profiles are active: dev
+2018-09-02 15:52:04 [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarted][59]->Started ArcfacedemoFirstApplication in 2.569 seconds (JVM running for 2221.217)
+2018-09-02 15:52:08 [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRegister][80]->new file name is 02fce6de-8a7e-4e86-82c3-7fe82adae7fe.jpg
+2018-09-02 15:52:08 [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRegister][83]->new file name is 02fce6de-8a7e-4e86-82c3-7fe82adae7fe.jpg
+2018-09-02 15:58:00 [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][50]->Starting ArcfacedemoFirstApplication on zyl-fortytwo with PID 3492 (E:\soft_dev\eclipse_workspace\arcfacedemo-first\target\classes started by Administrator in E:\soft_dev\eclipse_workspace\arcfacedemo-first)
+2018-09-02 15:58:00 [DEBUG][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][53]->Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+2018-09-02 15:58:00 [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStartupProfileInfo][666]->The following profiles are active: dev
+2018-09-02 15:58:03 [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarted][59]->Started ArcfacedemoFirstApplication in 2.315 seconds (JVM running for 2580.159)
+2018-09-02 15:58:13 [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRegister][80]->new file name is 899c9228-75a5-4373-90e2-9c9d4b8e20e2.jpg
+2018-09-02 15:58:13 [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRegister][83]->new file name is 899c9228-75a5-4373-90e2-9c9d4b8e20e2.jpg
+2018-09-02 15:58:47 [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][50]->Starting ArcfacedemoFirstApplication on zyl-fortytwo with PID 3492 (E:\soft_dev\eclipse_workspace\arcfacedemo-first\target\classes started by Administrator in E:\soft_dev\eclipse_workspace\arcfacedemo-first)
+2018-09-02 15:58:47 [DEBUG][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][53]->Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+2018-09-02 15:58:47 [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStartupProfileInfo][666]->The following profiles are active: dev
+2018-09-02 15:58:49 [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarted][59]->Started ArcfacedemoFirstApplication in 2.433 seconds (JVM running for 2627.027)
+2018-09-02 16:03:50 [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][50]->Starting ArcfacedemoFirstApplication on zyl-fortytwo with PID 3492 (E:\soft_dev\eclipse_workspace\arcfacedemo-first\target\classes started by Administrator in E:\soft_dev\eclipse_workspace\arcfacedemo-first)
+2018-09-02 16:03:50 [DEBUG][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][53]->Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+2018-09-02 16:03:50 [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStartupProfileInfo][666]->The following profiles are active: dev
+2018-09-02 16:03:53 [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarted][59]->Started ArcfacedemoFirstApplication in 2.4 seconds (JVM running for 2930.303)
+2018-09-02 16:04:03 [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRegister][80]->new file name is 390eab2c-cdb6-4241-b2d8-de6d5120d87d.jpg
+2018-09-02 16:04:03 [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRegister][83]->new file name is 390eab2c-cdb6-4241-b2d8-de6d5120d87d.jpg
