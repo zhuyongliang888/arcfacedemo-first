@@ -18,6 +18,7 @@ import com.hoperun.arcfacedemo.arcsoft.cls.FaceInfo;
 import com.hoperun.arcfacedemo.arcsoft.cls.MRECT;
 import com.hoperun.arcfacedemo.arcsoft.entity.ASVL_COLOR_FORMAT;
 import com.hoperun.arcfacedemo.arcsoft.entity._AFD_FSDK_OrientPriority;
+import com.hoperun.arcfacedemo.common.Constant;
 import com.sun.jna.Memory;
 import com.sun.jna.NativeLong;
 import com.sun.jna.Pointer;
@@ -25,9 +26,10 @@ import com.sun.jna.ptr.FloatByReference;
 import com.sun.jna.ptr.PointerByReference;
 
 public class ArcfaceUtils {
-	public static final String    APPID  = "4dBSjEpL7vj4LJHZRqMr1EvTggWapqCfVkZRXcKzFDgA";
-	public static final String FD_SDKKEY = "AGPxD5wcFdKdMb8ezdiMfN3DhbYC3ufZJ86sso8haYPb";
-	public static final String FR_SDKKEY = "AGPxD5wcFdKdMb8ezdiMfN3iMCapbcZ9Yw1UFSjcRr5H";
+    
+	public static final String    APPID  = Constant.APPID;
+	public static final String FD_SDKKEY = Constant.FD_SDKKEY;
+	public static final String FR_SDKKEY = Constant.FR_SDKKEY;
 	
     public static final int FD_WORKBUF_SIZE = 20 * 1024 * 1024;
     public static final int FR_WORKBUF_SIZE = 40 * 1024 * 1024;
@@ -249,7 +251,7 @@ public class ArcfaceUtils {
         AFR_FSDK_FACEMODEL faceFeature = new AFR_FSDK_FACEMODEL();
         NativeLong ret2 = AFR_FSDKLibrary.INSTANCE.AFR_FSDK_ExtractFRFeature(hFREngine, inputImg, faceinput, faceFeature);
         if (ret.longValue() != 0) {
-            System.out.println(String.format("AFR_FSDK_ExtractFRFeature ret 0x%x" ,ret2.longValue()));
+            System.out.println(String.format("AFR_FSDK_ExtractFRFeature ret2 0x%x" ,ret2.longValue()));
             return null;
         }
         try {

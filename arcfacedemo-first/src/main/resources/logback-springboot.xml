@@ -2,18 +2,27 @@
 
 <configuration scan="true" debug="false">
 	<property resource= "application.properties" />
+	
+	<springProperty scope="context" name="logdir" source="logback.logdir" defaultValue="logs" />
+	<property name="LOGDIR" value="${logdir}"></property>
+
+	<springProperty scope="context" name="debugName" source="logback.debug.name" defaultValue="app" />
+	<property name="DEBUGNAME" value="${debugName}"></property>
+	
+	<springProperty scope="context" name="errorName" source="logback.error.name" defaultValue="app" />
+	<property name="ERRORNAME" value="${errorName}"></property>
 
 	<appender name="STDOUT" class="ch.qos.logback.core.ConsoleAppender">
 		<!-- 对日志进行格式化 -->
 		<layout class="ch.qos.logback.classic.PatternLayout">
-			<pattern>%d{yyyy-MM-dd HH:mm:ss} [%p][%c][%M][%L]->%m%n</pattern>
+			<pattern>%d{yyyy-MM-dd HH:mm:ss} [%thread] [%p][%c][%M][%L]->%m%n</pattern>
 		</layout>
 	</appender>
 
 	<appender name="FILE"
 		class="ch.qos.logback.core.rolling.RollingFileAppender">
 		<append>true</append>
-		<file>${logback.logdir}/${logback.debug.name}.log</file>
+		<file>${LOGDIR}/${DEBUGNAME}.log</file>
 		<filter class="ch.qos.logback.classic.filter.LevelFilter">
 			<level>ERROR</level>
 			<onMatch>DENY</onMatch>
@@ -21,19 +30,19 @@
 		</filter>
 		<rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">
 			<FileNamePattern>
-				${logback.logdir}/${logback.debug.name}.%d{yyyy-MM-dd}.log
+				${LOGDIR}/${DEBUGNAME}.%d{yyyy-MM-dd}.log
 				<maxHistory>7</maxHistory>
 			</FileNamePattern>
 		</rollingPolicy>
 		<encoder>
 			<charset>UTF-8</charset>
-			<Pattern>%d{yyyy-MM-dd HH:mm:ss} [%p][%c][%M][%L]->%m%n</Pattern>
+			<Pattern>%d{yyyy-MM-dd HH:mm:ss} [%thread] [%p][%c][%M][%L]->%m%n</Pattern>
 		</encoder>
 	</appender>
 
 	<appender name="FILE_ERROR" class="ch.qos.logback.core.rolling.RollingFileAppender">
 		<append>true</append>
-		<file>${logback.logdir}/${logback.error.name}.log</file>
+		<file>${LOGDIR}/${ERRORNAME}.log</file>
 		<!-- 只打印 error log -->
 		<filter class="ch.qos.logback.classic.filter.LevelFilter">
 			<level>ERROR</level>
@@ -41,7 +50,7 @@
 			<onMismatch>DENY</onMismatch>
 		</filter>
 		<rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">
-			<fileNamePattern>${logback.logdir}/${logback.error.name}.%d{yyyy-MM-dd}.log
+			<fileNamePattern>${LOGDIR}/${ERRORNAME}.%d{yyyy-MM-dd}.log
 			</fileNamePattern>
 			<maxHistory>30</maxHistory>
 		</rollingPolicy>
@@ -51,7 +60,7 @@
 		</triggeringPolicy>
 		<encoder>
 			<charset>UTF-8</charset>
-			<Pattern>%d{yyyy-MM-dd HH:mm:ss} [%p][%c][%M][%L]->%m%n</Pattern>
+			<Pattern>%d{yyyy-MM-dd HH:mm:ss} [%thread] [%p][%c][%M][%L]->%m%n</Pattern>
 		</encoder>
 	</appender>
 

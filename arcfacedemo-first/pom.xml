@@ -71,7 +71,7 @@
 
 	<build>
 		<finalName>arcface-reg</finalName>
-		<resources>
+		<!-- <resources>
 			<resource>
 				<directory>${project.basedir}</directory>
 				<targetPath>${project.build.directory}/classes</targetPath>
@@ -81,7 +81,7 @@
 					<include>**/*.dll</include>
 				</includes>
 			</resource>
-		</resources>
+		</resources> -->
 
 		<plugins>
 			<plugin>

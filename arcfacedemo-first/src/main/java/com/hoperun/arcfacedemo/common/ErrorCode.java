@@ -36,6 +36,11 @@ public class ErrorCode {
 	//******404
 	public static final Integer ERROR_CODE_NO_EXIST = 4041000;
 	public static final String ERROR_MSG_NO_EXIST = "[%s] = %s not exist";
+	
+	//******503
+	public static final Integer ERROR_CODE_GET_FACEMODE_FAIL = 5031001;
+	
+	
 
 
 
