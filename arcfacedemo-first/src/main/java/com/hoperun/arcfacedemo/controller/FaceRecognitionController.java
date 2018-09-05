@@ -142,6 +142,7 @@ public class FaceRecognitionController
 	
 	// 1.获取此图片文件的特征值
 	String faceModeString = getFaceModelValueString(dest);
+	System.out.println("-------------------------将获取的图片特征值装换成String\n"+faceModeString);
 	if (StringUtils.isEmpty(faceModeString))
 	{
 	    // 获取特征值失败
@@ -157,6 +158,12 @@ public class FaceRecognitionController
 	valueMap.put(FACEMODE, faceModeString);
 	faceModeStringList.add(valueMap);
 	redisUtils.saveObject(DEVICE_ID, faceModeStringList);
+	
+	
+	//测试一下
+	List<Map<String, String>> testList = (List<Map<String,String>>)redisUtils.getObject(DEVICE_ID);
+	Map<String,String> tempMap =testList.get(0);
+	System.out.println("从redis中再取出后的特征值\n"+tempMap.get(FACEMODE));
 
 	commonResponseBody.setCode(0);
 	commonResponseBody.setMessage("SUCCESS!");
@@ -251,15 +258,16 @@ public class FaceRecognitionController
 	    LOGGER.error("compare fail");
 	    return JSON.toJSONString(commonDataResponse, SerializerFeature.WriteMapNullValue);
 	}
-	
+	System.out.println("faceModeStringList.size()=="+faceModeStringList.size());
 	//判断图片能否识别
 	boolean isSuccess = false;
-	for (Map<String, String> tempMap : faceModeStringList)
-	{
+	for (int i=0;i<faceModeStringList.size();i++)
+	{   Map<String, String> tempMap = faceModeStringList.get(i);
 	    String tempFaceModeString = tempMap.get(FACEMODE);
 	    if (StringUtils.isEmpty(tempFaceModeString))
 	    {
 		continue;
+		
 	    }
 
 	    byte[] tempfaceModeBytes = StringUtils.hexStringToByteArray(tempFaceModeString);
@@ -279,16 +287,19 @@ public class FaceRecognitionController
 	    {
 		// 获得比较值
 		float compareFaceSimilarityValue = ArcfaceUtils.compareFaceSimilarity(faceMode, tempFaceModel);
+		tempFaceModel.freeUnmanaged();
 		LOGGER.debug("compareFaceSimilarityValue=="+compareFaceSimilarityValue);
 		if (compareFaceSimilarityValue >= SIMILARITY_VALUE)
 		{
 		    System.out.println("recognize success!");
 		    isSuccess = true;
+		    
 		    break;
 		}
 	    }
-
 	}
+	faceMode.freeUnmanaged();
+	
 	LOGGER.debug("COMPARE SUCCESS OR FAIL:"+isSuccess);
 	if(isSuccess) {
 	    //返回成功识别

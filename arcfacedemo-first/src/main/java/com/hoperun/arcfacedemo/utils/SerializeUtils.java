@@ -11,7 +11,7 @@ import org.slf4j.LoggerFactory;
 public class SerializeUtils
 {
 
-	private final static Logger LOGGER = LoggerFactory.getLogger(SerializeUtils.class);
+    private final static Logger LOGGER = LoggerFactory.getLogger(SerializeUtils.class);
 
     /**
      * 序列化
@@ -36,7 +36,7 @@ public class SerializeUtils
 	    return bytes;
 	} catch (Exception e)
 	{
-		LOGGER.error(e.toString());
+	    LOGGER.error(e.toString());
 	    throw e;
 	}
     }
@@ -61,7 +61,7 @@ public class SerializeUtils
 	    return ois.readObject();
 	} catch (Exception e)
 	{
-		LOGGER.error(e.toString());
+	    LOGGER.error(e.toString());
 	    throw e;
 	}
     }

@@ -1,0 +1,503 @@
+2018-09-04 18:25:57 [restartedMain] [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][50]->Starting ArcfacedemoFirstApplication on PC140046 with PID 9528 (E:\ArcFaceDemo\arcfacedemo-first\arcfacedemo-first\target\classes started by zhuyl in E:\ArcFaceDemo\arcfacedemo-first\arcfacedemo-first)
+2018-09-04 18:25:57 [restartedMain] [DEBUG][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][53]->Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+2018-09-04 18:25:57 [restartedMain] [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStartupProfileInfo][666]->The following profiles are active: dev
+2018-09-04 18:25:59 [restartedMain] [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarted][59]->Started ArcfacedemoFirstApplication in 2.33 seconds (JVM running for 2.89)
+2018-09-04 18:27:28 [http-nio-8099-exec-1] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRegister][113]->new file name is f0031729-49b2-4c1c-986c-62e2d637b7e3_刘德华.jpg
+2018-09-04 18:27:28 [http-nio-8099-exec-1] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRegister][116]->new file name is f0031729-49b2-4c1c-986c-62e2d637b7e3_刘德华.jpg
+2018-09-04 18:31:19 [restartedMain] [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][50]->Starting ArcfacedemoFirstApplication on PC140046 with PID 9528 (E:\ArcFaceDemo\arcfacedemo-first\arcfacedemo-first\target\classes started by zhuyl in E:\ArcFaceDemo\arcfacedemo-first\arcfacedemo-first)
+2018-09-04 18:31:19 [restartedMain] [DEBUG][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][53]->Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+2018-09-04 18:31:19 [restartedMain] [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStartupProfileInfo][666]->The following profiles are active: dev
+2018-09-04 18:31:19 [restartedMain] [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarted][59]->Started ArcfacedemoFirstApplication in 0.536 seconds (JVM running for 323.184)
+2018-09-04 18:31:26 [http-nio-8099-exec-1] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRegister][113]->new file name is 4fba99da-b2c1-40dd-8d2b-05c7f34c7c21_刘德华.jpg
+2018-09-04 18:31:26 [http-nio-8099-exec-1] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRegister][116]->new file name is 4fba99da-b2c1-40dd-8d2b-05c7f34c7c21_刘德华.jpg
+2018-09-04 18:35:47 [http-nio-8099-exec-3] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRegister][113]->new file name is efff44fd-20d7-4419-be85-e08b27d9f3fd_刘德华.jpg
+2018-09-04 18:35:47 [http-nio-8099-exec-3] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRegister][116]->new file name is efff44fd-20d7-4419-be85-e08b27d9f3fd_刘德华.jpg
+2018-09-04 18:36:06 [restartedMain] [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][50]->Starting ArcfacedemoFirstApplication on PC140046 with PID 9528 (E:\ArcFaceDemo\arcfacedemo-first\arcfacedemo-first\target\classes started by zhuyl in E:\ArcFaceDemo\arcfacedemo-first\arcfacedemo-first)
+2018-09-04 18:36:06 [restartedMain] [DEBUG][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][53]->Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+2018-09-04 18:36:06 [restartedMain] [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStartupProfileInfo][666]->The following profiles are active: dev
+2018-09-04 18:36:06 [restartedMain] [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarted][59]->Started ArcfacedemoFirstApplication in 0.51 seconds (JVM running for 610.603)
+2018-09-04 18:36:10 [restartedMain] [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][50]->Starting ArcfacedemoFirstApplication on PC140046 with PID 9528 (E:\ArcFaceDemo\arcfacedemo-first\arcfacedemo-first\target\classes started by zhuyl in E:\ArcFaceDemo\arcfacedemo-first\arcfacedemo-first)
+2018-09-04 18:36:10 [restartedMain] [DEBUG][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][53]->Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+2018-09-04 18:36:10 [restartedMain] [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStartupProfileInfo][666]->The following profiles are active: dev
+2018-09-04 18:36:11 [restartedMain] [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarted][59]->Started ArcfacedemoFirstApplication in 0.49 seconds (JVM running for 614.894)
+2018-09-04 18:36:22 [http-nio-8099-exec-1] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRegister][113]->new file name is 24a6f11b-8348-4b3e-9288-7603b7a07448_刘德华.jpg
+2018-09-04 18:36:22 [http-nio-8099-exec-1] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRegister][116]->new file name is 24a6f11b-8348-4b3e-9288-7603b7a07448_刘德华.jpg
+2018-09-04 18:36:37 [http-nio-8099-exec-2] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRegister][113]->new file name is 50eaf042-881a-4e0e-bd3b-9f0d30fcdd37_刘德华.jpg
+2018-09-04 18:36:37 [http-nio-8099-exec-2] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRegister][116]->new file name is 50eaf042-881a-4e0e-bd3b-9f0d30fcdd37_刘德华.jpg
+2018-09-04 18:37:07 [http-nio-8099-exec-3] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][282]->compareFaceSimilarityValue==0.8070355
+2018-09-04 18:37:07 [http-nio-8099-exec-3] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][292]->COMPARE SUCCESS OR FAIL:true
+2018-09-04 18:37:07 [http-nio-8099-exec-3] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][301]->compare success
+2018-09-04 18:38:42 [restartedMain] [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][50]->Starting ArcfacedemoFirstApplication on PC140046 with PID 9528 (E:\ArcFaceDemo\arcfacedemo-first\arcfacedemo-first\target\classes started by zhuyl in E:\ArcFaceDemo\arcfacedemo-first\arcfacedemo-first)
+2018-09-04 18:38:42 [restartedMain] [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStartupProfileInfo][666]->The following profiles are active: prod
+2018-09-04 18:38:43 [restartedMain] [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarted][59]->Started ArcfacedemoFirstApplication in 0.489 seconds (JVM running for 766.886)
+2018-09-04 18:39:19 [restartedMain] [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][50]->Starting ArcfacedemoFirstApplication on PC140046 with PID 9528 (E:\ArcFaceDemo\arcfacedemo-first\arcfacedemo-first\target\classes started by zhuyl in E:\ArcFaceDemo\arcfacedemo-first\arcfacedemo-first)
+2018-09-04 18:39:19 [restartedMain] [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStartupProfileInfo][666]->The following profiles are active: prod
+2018-09-04 18:39:20 [restartedMain] [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarted][59]->Started ArcfacedemoFirstApplication in 0.596 seconds (JVM running for 804.087)
+2018-09-04 18:42:00 [main] [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplicationTests][logStarting][50]->Starting ArcfacedemoFirstApplicationTests on PC140046 with PID 12992 (started by zhuyl in E:\ArcFaceDemo\arcfacedemo-first\arcfacedemo-first)
+2018-09-04 18:42:00 [main] [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplicationTests][logStartupProfileInfo][666]->The following profiles are active: prod
+2018-09-04 18:42:02 [main] [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplicationTests][logStarted][59]->Started ArcfacedemoFirstApplicationTests in 2.981 seconds (JVM running for 3.82)
+2018-09-04 18:42:24 [main] [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplicationTests][logStarting][50]->Starting ArcfacedemoFirstApplicationTests on PC140046 with PID 13016 (started by zhuyl in E:\ArcFaceDemo\arcfacedemo-first\arcfacedemo-first)
+2018-09-04 18:42:24 [main] [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplicationTests][logStartupProfileInfo][666]->The following profiles are active: prod
+2018-09-04 18:42:27 [main] [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplicationTests][logStarted][59]->Started ArcfacedemoFirstApplicationTests in 2.833 seconds (JVM running for 3.615)
+2018-09-04 19:01:38 [restartedMain] [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][50]->Starting ArcfacedemoFirstApplication on PC140046 with PID 9880 (E:\ArcFaceDemo\arcfacedemo-first\arcfacedemo-first\target\classes started by zhuyl in E:\ArcFaceDemo\arcfacedemo-first\arcfacedemo-first)
+2018-09-04 19:01:38 [restartedMain] [DEBUG][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][53]->Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+2018-09-04 19:01:38 [restartedMain] [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStartupProfileInfo][666]->The following profiles are active: dev
+2018-09-04 19:01:40 [restartedMain] [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarted][59]->Started ArcfacedemoFirstApplication in 2.347 seconds (JVM running for 2.904)
+2018-09-04 19:02:09 [http-nio-8099-exec-1] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRegister][113]->new file name is 7139eb7c-7971-488b-ac07-4e92d38361a6_李连杰2.jpg
+2018-09-04 19:02:09 [http-nio-8099-exec-1] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRegister][116]->new file name is 7139eb7c-7971-488b-ac07-4e92d38361a6_李连杰2.jpg
+2018-09-04 19:02:43 [http-nio-8099-exec-2] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][282]->compareFaceSimilarityValue==0.5083939
+2018-09-04 19:02:43 [http-nio-8099-exec-2] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][282]->compareFaceSimilarityValue==0.0
+2018-09-04 19:02:43 [http-nio-8099-exec-2] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][282]->compareFaceSimilarityValue==0.0
+2018-09-04 19:02:43 [http-nio-8099-exec-2] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][282]->compareFaceSimilarityValue==0.0
+2018-09-04 19:02:43 [http-nio-8099-exec-2] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][282]->compareFaceSimilarityValue==0.0
+2018-09-04 19:02:43 [http-nio-8099-exec-2] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][292]->COMPARE SUCCESS OR FAIL:false
+2018-09-04 19:02:43 [http-nio-8099-exec-2] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][311]->compare fail
+2018-09-04 19:04:20 [restartedMain] [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][50]->Starting ArcfacedemoFirstApplication on PC140046 with PID 9880 (E:\ArcFaceDemo\arcfacedemo-first\arcfacedemo-first\target\classes started by zhuyl in E:\ArcFaceDemo\arcfacedemo-first\arcfacedemo-first)
+2018-09-04 19:04:20 [restartedMain] [DEBUG][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][53]->Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+2018-09-04 19:04:20 [restartedMain] [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStartupProfileInfo][666]->The following profiles are active: dev
+2018-09-04 19:04:21 [restartedMain] [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarted][59]->Started ArcfacedemoFirstApplication in 0.52 seconds (JVM running for 163.661)
+2018-09-04 19:08:49 [http-nio-8099-exec-1] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][282]->compareFaceSimilarityValue==0.5083939
+2018-09-04 19:08:49 [http-nio-8099-exec-1] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][282]->compareFaceSimilarityValue==0.0
+2018-09-04 19:08:49 [http-nio-8099-exec-1] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][282]->compareFaceSimilarityValue==0.0
+2018-09-04 19:08:49 [http-nio-8099-exec-1] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][282]->compareFaceSimilarityValue==0.0
+2018-09-04 19:08:49 [http-nio-8099-exec-1] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][282]->compareFaceSimilarityValue==0.0
+2018-09-04 19:08:49 [http-nio-8099-exec-1] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][292]->COMPARE SUCCESS OR FAIL:false
+2018-09-04 19:08:49 [http-nio-8099-exec-1] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][311]->compare fail
+2018-09-04 19:09:01 [http-nio-8099-exec-2] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][282]->compareFaceSimilarityValue==0.5083939
+2018-09-04 19:09:01 [http-nio-8099-exec-2] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][282]->compareFaceSimilarityValue==0.0
+2018-09-04 19:09:01 [http-nio-8099-exec-2] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][282]->compareFaceSimilarityValue==0.0
+2018-09-04 19:09:02 [http-nio-8099-exec-2] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][282]->compareFaceSimilarityValue==0.0
+2018-09-04 19:09:02 [http-nio-8099-exec-2] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][282]->compareFaceSimilarityValue==0.0
+2018-09-04 19:09:02 [http-nio-8099-exec-2] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][292]->COMPARE SUCCESS OR FAIL:false
+2018-09-04 19:09:02 [http-nio-8099-exec-2] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][311]->compare fail
+2018-09-04 19:09:14 [restartedMain] [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][50]->Starting ArcfacedemoFirstApplication on PC140046 with PID 13464 (E:\ArcFaceDemo\arcfacedemo-first\arcfacedemo-first\target\classes started by zhuyl in E:\ArcFaceDemo\arcfacedemo-first\arcfacedemo-first)
+2018-09-04 19:09:14 [restartedMain] [DEBUG][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][53]->Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+2018-09-04 19:09:14 [restartedMain] [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStartupProfileInfo][666]->The following profiles are active: dev
+2018-09-04 19:09:48 [http-nio-8099-exec-3] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][282]->compareFaceSimilarityValue==0.5083939
+2018-09-04 19:09:48 [http-nio-8099-exec-3] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][282]->compareFaceSimilarityValue==0.0
+2018-09-04 19:09:48 [http-nio-8099-exec-3] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][282]->compareFaceSimilarityValue==0.0
+2018-09-04 19:09:48 [http-nio-8099-exec-3] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][282]->compareFaceSimilarityValue==0.0
+2018-09-04 19:09:48 [http-nio-8099-exec-3] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][282]->compareFaceSimilarityValue==0.0
+2018-09-04 19:09:48 [http-nio-8099-exec-3] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][292]->COMPARE SUCCESS OR FAIL:false
+2018-09-04 19:09:48 [http-nio-8099-exec-3] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][311]->compare fail
+2018-09-04 19:12:34 [http-nio-8099-exec-5] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRegister][113]->new file name is 55d42bc0-5147-47d1-8d46-7c1943f6d8d9_李连杰2.jpg
+2018-09-04 19:12:34 [http-nio-8099-exec-5] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRegister][116]->new file name is 55d42bc0-5147-47d1-8d46-7c1943f6d8d9_李连杰2.jpg
+2018-09-04 19:13:49 [http-nio-8099-exec-7] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRegister][113]->new file name is 222eee75-a750-4d5b-bb9e-1a70ef1a141e_李连杰2.jpg
+2018-09-04 19:13:49 [http-nio-8099-exec-7] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRegister][116]->new file name is 222eee75-a750-4d5b-bb9e-1a70ef1a141e_李连杰2.jpg
+2018-09-04 19:16:11 [restartedMain] [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][50]->Starting ArcfacedemoFirstApplication on PC140046 with PID 9880 (E:\ArcFaceDemo\arcfacedemo-first\arcfacedemo-first\target\classes started by zhuyl in E:\ArcFaceDemo\arcfacedemo-first\arcfacedemo-first)
+2018-09-04 19:16:11 [restartedMain] [DEBUG][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][53]->Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+2018-09-04 19:16:11 [restartedMain] [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStartupProfileInfo][666]->The following profiles are active: dev
+2018-09-04 19:16:11 [restartedMain] [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarted][59]->Started ArcfacedemoFirstApplication in 0.492 seconds (JVM running for 874.389)
+2018-09-04 19:16:19 [restartedMain] [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][50]->Starting ArcfacedemoFirstApplication on PC140046 with PID 9880 (E:\ArcFaceDemo\arcfacedemo-first\arcfacedemo-first\target\classes started by zhuyl in E:\ArcFaceDemo\arcfacedemo-first\arcfacedemo-first)
+2018-09-04 19:16:19 [restartedMain] [DEBUG][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][53]->Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+2018-09-04 19:16:19 [restartedMain] [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStartupProfileInfo][666]->The following profiles are active: dev
+2018-09-04 19:16:20 [restartedMain] [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarted][59]->Started ArcfacedemoFirstApplication in 0.476 seconds (JVM running for 882.543)
+2018-09-04 19:19:16 [restartedMain] [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][50]->Starting ArcfacedemoFirstApplication on PC140046 with PID 9880 (E:\ArcFaceDemo\arcfacedemo-first\arcfacedemo-first\target\classes started by zhuyl in E:\ArcFaceDemo\arcfacedemo-first\arcfacedemo-first)
+2018-09-04 19:19:16 [restartedMain] [DEBUG][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][53]->Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+2018-09-04 19:19:16 [restartedMain] [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStartupProfileInfo][666]->The following profiles are active: dev
+2018-09-04 19:19:17 [restartedMain] [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarted][59]->Started ArcfacedemoFirstApplication in 0.47 seconds (JVM running for 1059.575)
+2018-09-04 19:19:28 [http-nio-8099-exec-1] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRegister][113]->new file name is d46da041-bcb6-43eb-b45c-33bc0fdb7ba6_李连杰2.jpg
+2018-09-04 19:19:28 [http-nio-8099-exec-1] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRegister][116]->new file name is d46da041-bcb6-43eb-b45c-33bc0fdb7ba6_李连杰2.jpg
+2018-09-04 19:21:07 [restartedMain] [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][50]->Starting ArcfacedemoFirstApplication on PC140046 with PID 9880 (E:\ArcFaceDemo\arcfacedemo-first\arcfacedemo-first\target\classes started by zhuyl in E:\ArcFaceDemo\arcfacedemo-first\arcfacedemo-first)
+2018-09-04 19:21:07 [restartedMain] [DEBUG][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][53]->Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+2018-09-04 19:21:07 [restartedMain] [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStartupProfileInfo][666]->The following profiles are active: dev
+2018-09-04 19:21:08 [restartedMain] [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarted][59]->Started ArcfacedemoFirstApplication in 0.47 seconds (JVM running for 1170.565)
+2018-09-04 19:21:34 [http-nio-8099-exec-1] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][289]->-----------------compareFaceSimilarityValue==1.0
+2018-09-04 19:21:34 [http-nio-8099-exec-1] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][299]->COMPARE SUCCESS OR FAIL:true
+2018-09-04 19:21:34 [http-nio-8099-exec-1] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][308]->compare success
+2018-09-04 19:22:19 [http-nio-8099-exec-2] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][289]->-----------------compareFaceSimilarityValue==0.669164
+2018-09-04 19:22:19 [http-nio-8099-exec-2] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][299]->COMPARE SUCCESS OR FAIL:false
+2018-09-04 19:22:19 [http-nio-8099-exec-2] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][318]->compare fail
+2018-09-04 19:22:43 [http-nio-8099-exec-3] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRegister][113]->new file name is be4e274f-f899-4279-a570-3c9273f0c3e1_李连杰1.jpg
+2018-09-04 19:22:43 [http-nio-8099-exec-3] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRegister][116]->new file name is be4e274f-f899-4279-a570-3c9273f0c3e1_李连杰1.jpg
+2018-09-04 19:22:52 [http-nio-8099-exec-4] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRegister][113]->new file name is 994ef8d7-e642-4e44-beed-470db76ba3e7_李连杰1.jpg
+2018-09-04 19:22:52 [http-nio-8099-exec-4] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRegister][116]->new file name is 994ef8d7-e642-4e44-beed-470db76ba3e7_李连杰1.jpg
+2018-09-04 19:23:09 [http-nio-8099-exec-5] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][289]->-----------------compareFaceSimilarityValue==0.669164
+2018-09-04 19:23:09 [http-nio-8099-exec-5] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][289]->-----------------compareFaceSimilarityValue==0.0
+2018-09-04 19:23:09 [http-nio-8099-exec-5] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][289]->-----------------compareFaceSimilarityValue==0.0
+2018-09-04 19:23:09 [http-nio-8099-exec-5] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][299]->COMPARE SUCCESS OR FAIL:false
+2018-09-04 19:23:09 [http-nio-8099-exec-5] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][318]->compare fail
+2018-09-04 19:25:46 [http-nio-8099-exec-7] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRegister][113]->new file name is 5cef2b98-eed4-45ac-ab2d-5cc919282ed3_mayun1.jpg
+2018-09-04 19:25:46 [http-nio-8099-exec-7] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRegister][116]->new file name is 5cef2b98-eed4-45ac-ab2d-5cc919282ed3_mayun1.jpg
+2018-09-04 19:25:56 [http-nio-8099-exec-8] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRegister][113]->new file name is f16f7cac-ae49-4f43-96ae-b4ba2e6787de_mayun2.jpg
+2018-09-04 19:25:56 [http-nio-8099-exec-8] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRegister][116]->new file name is f16f7cac-ae49-4f43-96ae-b4ba2e6787de_mayun2.jpg
+2018-09-04 19:26:09 [http-nio-8099-exec-9] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRegister][113]->new file name is 3dab5a83-c4a7-4312-a52e-7378bae9fe3e_liudehua1.jpg
+2018-09-04 19:26:09 [http-nio-8099-exec-9] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRegister][116]->new file name is 3dab5a83-c4a7-4312-a52e-7378bae9fe3e_liudehua1.jpg
+2018-09-04 19:26:19 [http-nio-8099-exec-10] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRegister][113]->new file name is e0d65c86-161d-4b91-9088-0de4cc461bd9_llj1.jpg
+2018-09-04 19:26:19 [http-nio-8099-exec-10] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRegister][116]->new file name is e0d65c86-161d-4b91-9088-0de4cc461bd9_llj1.jpg
+2018-09-04 19:26:26 [http-nio-8099-exec-1] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRegister][113]->new file name is 494d832e-d79d-4ffa-9007-7e877e8529f5_llj2.jpg
+2018-09-04 19:26:26 [http-nio-8099-exec-1] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRegister][116]->new file name is 494d832e-d79d-4ffa-9007-7e877e8529f5_llj2.jpg
+2018-09-04 19:26:40 [http-nio-8099-exec-2] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][289]->-----------------compareFaceSimilarityValue==0.29315025
+2018-09-04 19:26:40 [http-nio-8099-exec-2] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][289]->-----------------compareFaceSimilarityValue==0.0
+2018-09-04 19:26:40 [http-nio-8099-exec-2] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][289]->-----------------compareFaceSimilarityValue==0.0
+2018-09-04 19:26:40 [http-nio-8099-exec-2] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][289]->-----------------compareFaceSimilarityValue==0.0
+2018-09-04 19:26:40 [http-nio-8099-exec-2] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][289]->-----------------compareFaceSimilarityValue==0.0
+2018-09-04 19:26:40 [http-nio-8099-exec-2] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][299]->COMPARE SUCCESS OR FAIL:false
+2018-09-04 19:26:40 [http-nio-8099-exec-2] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][318]->compare fail
+2018-09-04 19:26:47 [http-nio-8099-exec-3] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][289]->-----------------compareFaceSimilarityValue==0.28850588
+2018-09-04 19:26:47 [http-nio-8099-exec-3] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][289]->-----------------compareFaceSimilarityValue==0.0
+2018-09-04 19:26:47 [http-nio-8099-exec-3] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][289]->-----------------compareFaceSimilarityValue==0.0
+2018-09-04 19:26:47 [http-nio-8099-exec-3] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][289]->-----------------compareFaceSimilarityValue==0.0
+2018-09-04 19:26:47 [http-nio-8099-exec-3] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][289]->-----------------compareFaceSimilarityValue==0.0
+2018-09-04 19:26:47 [http-nio-8099-exec-3] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][299]->COMPARE SUCCESS OR FAIL:false
+2018-09-04 19:26:47 [http-nio-8099-exec-3] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][318]->compare fail
+2018-09-04 19:26:53 [http-nio-8099-exec-4] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][289]->-----------------compareFaceSimilarityValue==0.26747143
+2018-09-04 19:26:53 [http-nio-8099-exec-4] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][289]->-----------------compareFaceSimilarityValue==0.0
+2018-09-04 19:26:53 [http-nio-8099-exec-4] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][289]->-----------------compareFaceSimilarityValue==0.0
+2018-09-04 19:26:53 [http-nio-8099-exec-4] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][289]->-----------------compareFaceSimilarityValue==0.0
+2018-09-04 19:26:53 [http-nio-8099-exec-4] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][289]->-----------------compareFaceSimilarityValue==0.0
+2018-09-04 19:26:53 [http-nio-8099-exec-4] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][299]->COMPARE SUCCESS OR FAIL:false
+2018-09-04 19:26:53 [http-nio-8099-exec-4] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][318]->compare fail
+2018-09-04 19:27:06 [http-nio-8099-exec-6] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][289]->-----------------compareFaceSimilarityValue==0.2590378
+2018-09-04 19:27:06 [http-nio-8099-exec-6] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][289]->-----------------compareFaceSimilarityValue==0.0
+2018-09-04 19:27:06 [http-nio-8099-exec-6] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][289]->-----------------compareFaceSimilarityValue==0.0
+2018-09-04 19:27:06 [http-nio-8099-exec-6] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][289]->-----------------compareFaceSimilarityValue==0.0
+2018-09-04 19:27:06 [http-nio-8099-exec-6] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][289]->-----------------compareFaceSimilarityValue==0.0
+2018-09-04 19:27:06 [http-nio-8099-exec-6] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][299]->COMPARE SUCCESS OR FAIL:false
+2018-09-04 19:27:06 [http-nio-8099-exec-6] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][318]->compare fail
+2018-09-04 19:27:33 [restartedMain] [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][50]->Starting ArcfacedemoFirstApplication on PC140046 with PID 9880 (E:\ArcFaceDemo\arcfacedemo-first\arcfacedemo-first\target\classes started by zhuyl in E:\ArcFaceDemo\arcfacedemo-first\arcfacedemo-first)
+2018-09-04 19:27:33 [restartedMain] [DEBUG][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][53]->Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+2018-09-04 19:27:33 [restartedMain] [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStartupProfileInfo][666]->The following profiles are active: dev
+2018-09-04 19:27:34 [restartedMain] [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarted][59]->Started ArcfacedemoFirstApplication in 0.459 seconds (JVM running for 1556.742)
+2018-09-04 19:29:46 [http-nio-8099-exec-1] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRegister][113]->new file name is 0d334221-d326-48c3-a3e3-6e50f1762e99_liudehua1.jpg
+2018-09-04 19:29:46 [http-nio-8099-exec-1] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRegister][116]->new file name is 0d334221-d326-48c3-a3e3-6e50f1762e99_liudehua1.jpg
+2018-09-04 19:29:54 [http-nio-8099-exec-2] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][289]->-----------------compareFaceSimilarityValue==0.28850588
+2018-09-04 19:29:54 [http-nio-8099-exec-2] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][289]->-----------------compareFaceSimilarityValue==0.0
+2018-09-04 19:29:54 [http-nio-8099-exec-2] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][289]->-----------------compareFaceSimilarityValue==0.0
+2018-09-04 19:29:54 [http-nio-8099-exec-2] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][289]->-----------------compareFaceSimilarityValue==0.0
+2018-09-04 19:29:54 [http-nio-8099-exec-2] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][289]->-----------------compareFaceSimilarityValue==0.0
+2018-09-04 19:29:54 [http-nio-8099-exec-2] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][289]->-----------------compareFaceSimilarityValue==0.0
+2018-09-04 19:29:54 [http-nio-8099-exec-2] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][298]->COMPARE SUCCESS OR FAIL:false
+2018-09-04 19:29:54 [http-nio-8099-exec-2] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][317]->compare fail
+2018-09-04 19:30:02 [http-nio-8099-exec-3] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][289]->-----------------compareFaceSimilarityValue==0.28850588
+2018-09-04 19:30:02 [http-nio-8099-exec-3] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][289]->-----------------compareFaceSimilarityValue==0.0
+2018-09-04 19:30:02 [http-nio-8099-exec-3] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][289]->-----------------compareFaceSimilarityValue==0.0
+2018-09-04 19:30:02 [http-nio-8099-exec-3] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][289]->-----------------compareFaceSimilarityValue==0.0
+2018-09-04 19:30:02 [http-nio-8099-exec-3] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][289]->-----------------compareFaceSimilarityValue==0.0
+2018-09-04 19:30:02 [http-nio-8099-exec-3] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][289]->-----------------compareFaceSimilarityValue==0.0
+2018-09-04 19:30:02 [http-nio-8099-exec-3] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][298]->COMPARE SUCCESS OR FAIL:false
+2018-09-04 19:30:02 [http-nio-8099-exec-3] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][317]->compare fail
+2018-09-04 19:30:03 [http-nio-8099-exec-4] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][289]->-----------------compareFaceSimilarityValue==0.28850588
+2018-09-04 19:30:03 [http-nio-8099-exec-4] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][289]->-----------------compareFaceSimilarityValue==0.0
+2018-09-04 19:30:03 [http-nio-8099-exec-4] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][289]->-----------------compareFaceSimilarityValue==0.0
+2018-09-04 19:30:03 [http-nio-8099-exec-4] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][289]->-----------------compareFaceSimilarityValue==0.0
+2018-09-04 19:30:03 [http-nio-8099-exec-4] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][289]->-----------------compareFaceSimilarityValue==0.0
+2018-09-04 19:30:03 [http-nio-8099-exec-4] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][289]->-----------------compareFaceSimilarityValue==0.0
+2018-09-04 19:30:03 [http-nio-8099-exec-4] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][298]->COMPARE SUCCESS OR FAIL:false
+2018-09-04 19:30:03 [http-nio-8099-exec-4] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][317]->compare fail
+2018-09-04 19:30:04 [http-nio-8099-exec-5] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][289]->-----------------compareFaceSimilarityValue==0.28850588
+2018-09-04 19:30:04 [http-nio-8099-exec-5] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][289]->-----------------compareFaceSimilarityValue==0.0
+2018-09-04 19:30:04 [http-nio-8099-exec-5] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][289]->-----------------compareFaceSimilarityValue==0.0
+2018-09-04 19:30:04 [http-nio-8099-exec-5] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][289]->-----------------compareFaceSimilarityValue==0.0
+2018-09-04 19:30:04 [http-nio-8099-exec-5] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][289]->-----------------compareFaceSimilarityValue==0.0
+2018-09-04 19:30:04 [http-nio-8099-exec-5] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][289]->-----------------compareFaceSimilarityValue==0.0
+2018-09-04 19:30:04 [http-nio-8099-exec-5] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][298]->COMPARE SUCCESS OR FAIL:false
+2018-09-04 19:30:04 [http-nio-8099-exec-5] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][317]->compare fail
+2018-09-04 19:30:05 [http-nio-8099-exec-6] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][289]->-----------------compareFaceSimilarityValue==0.28850588
+2018-09-04 19:30:05 [http-nio-8099-exec-6] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][289]->-----------------compareFaceSimilarityValue==0.0
+2018-09-04 19:30:05 [http-nio-8099-exec-6] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][289]->-----------------compareFaceSimilarityValue==0.0
+2018-09-04 19:30:05 [http-nio-8099-exec-6] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][289]->-----------------compareFaceSimilarityValue==0.0
+2018-09-04 19:30:05 [http-nio-8099-exec-6] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][289]->-----------------compareFaceSimilarityValue==0.0
+2018-09-04 19:30:05 [http-nio-8099-exec-6] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][289]->-----------------compareFaceSimilarityValue==0.0
+2018-09-04 19:30:05 [http-nio-8099-exec-6] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][298]->COMPARE SUCCESS OR FAIL:false
+2018-09-04 19:30:05 [http-nio-8099-exec-6] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][317]->compare fail
+2018-09-04 19:30:05 [http-nio-8099-exec-7] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][289]->-----------------compareFaceSimilarityValue==0.28850588
+2018-09-04 19:30:05 [http-nio-8099-exec-7] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][289]->-----------------compareFaceSimilarityValue==0.0
+2018-09-04 19:30:05 [http-nio-8099-exec-7] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][289]->-----------------compareFaceSimilarityValue==0.0
+2018-09-04 19:30:05 [http-nio-8099-exec-7] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][289]->-----------------compareFaceSimilarityValue==0.0
+2018-09-04 19:30:05 [http-nio-8099-exec-7] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][289]->-----------------compareFaceSimilarityValue==0.0
+2018-09-04 19:30:05 [http-nio-8099-exec-7] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][289]->-----------------compareFaceSimilarityValue==0.0
+2018-09-04 19:30:05 [http-nio-8099-exec-7] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][298]->COMPARE SUCCESS OR FAIL:false
+2018-09-04 19:30:05 [http-nio-8099-exec-7] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][317]->compare fail
+2018-09-04 19:30:06 [http-nio-8099-exec-8] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][289]->-----------------compareFaceSimilarityValue==0.28850588
+2018-09-04 19:30:06 [http-nio-8099-exec-8] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][289]->-----------------compareFaceSimilarityValue==0.0
+2018-09-04 19:30:06 [http-nio-8099-exec-8] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][289]->-----------------compareFaceSimilarityValue==0.0
+2018-09-04 19:30:06 [http-nio-8099-exec-8] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][289]->-----------------compareFaceSimilarityValue==0.0
+2018-09-04 19:30:06 [http-nio-8099-exec-8] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][289]->-----------------compareFaceSimilarityValue==0.0
+2018-09-04 19:30:06 [http-nio-8099-exec-8] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][289]->-----------------compareFaceSimilarityValue==0.0
+2018-09-04 19:30:06 [http-nio-8099-exec-8] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][298]->COMPARE SUCCESS OR FAIL:false
+2018-09-04 19:30:06 [http-nio-8099-exec-8] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][317]->compare fail
+2018-09-04 19:30:07 [http-nio-8099-exec-9] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][289]->-----------------compareFaceSimilarityValue==0.28850588
+2018-09-04 19:30:07 [http-nio-8099-exec-9] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][289]->-----------------compareFaceSimilarityValue==0.0
+2018-09-04 19:30:07 [http-nio-8099-exec-9] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][289]->-----------------compareFaceSimilarityValue==0.0
+2018-09-04 19:30:07 [http-nio-8099-exec-9] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][289]->-----------------compareFaceSimilarityValue==0.0
+2018-09-04 19:30:07 [http-nio-8099-exec-9] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][289]->-----------------compareFaceSimilarityValue==0.0
+2018-09-04 19:30:07 [http-nio-8099-exec-9] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][289]->-----------------compareFaceSimilarityValue==0.0
+2018-09-04 19:30:07 [http-nio-8099-exec-9] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][298]->COMPARE SUCCESS OR FAIL:false
+2018-09-04 19:30:07 [http-nio-8099-exec-9] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][317]->compare fail
+2018-09-04 19:30:14 [http-nio-8099-exec-10] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRegister][113]->new file name is 98889900-7792-45bb-b439-dc7ffed0ed65_llj2.jpg
+2018-09-04 19:30:14 [http-nio-8099-exec-10] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRegister][116]->new file name is 98889900-7792-45bb-b439-dc7ffed0ed65_llj2.jpg
+2018-09-04 19:30:19 [http-nio-8099-exec-1] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][289]->-----------------compareFaceSimilarityValue==0.28850588
+2018-09-04 19:30:19 [http-nio-8099-exec-1] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][289]->-----------------compareFaceSimilarityValue==0.0
+2018-09-04 19:30:19 [http-nio-8099-exec-1] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][289]->-----------------compareFaceSimilarityValue==0.0
+2018-09-04 19:30:19 [http-nio-8099-exec-1] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][289]->-----------------compareFaceSimilarityValue==0.0
+2018-09-04 19:30:19 [http-nio-8099-exec-1] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][289]->-----------------compareFaceSimilarityValue==0.0
+2018-09-04 19:30:19 [http-nio-8099-exec-1] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][289]->-----------------compareFaceSimilarityValue==0.0
+2018-09-04 19:30:20 [http-nio-8099-exec-1] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][289]->-----------------compareFaceSimilarityValue==0.0
+2018-09-04 19:30:20 [http-nio-8099-exec-1] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][298]->COMPARE SUCCESS OR FAIL:false
+2018-09-04 19:30:20 [http-nio-8099-exec-1] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][317]->compare fail
+2018-09-04 19:33:07 [http-nio-8099-exec-3] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRegister][113]->new file name is df0f59a9-0ca7-41e0-bfe3-7a2bf4aafab3_liudehua1.jpg
+2018-09-04 19:33:07 [http-nio-8099-exec-3] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRegister][116]->new file name is df0f59a9-0ca7-41e0-bfe3-7a2bf4aafab3_liudehua1.jpg
+2018-09-04 19:33:18 [http-nio-8099-exec-4] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][289]->-----------------compareFaceSimilarityValue==1.0
+2018-09-04 19:33:18 [http-nio-8099-exec-4] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][298]->COMPARE SUCCESS OR FAIL:true
+2018-09-04 19:33:18 [http-nio-8099-exec-4] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][307]->compare success
+2018-09-04 19:33:22 [http-nio-8099-exec-5] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][289]->-----------------compareFaceSimilarityValue==1.0
+2018-09-04 19:33:22 [http-nio-8099-exec-5] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][298]->COMPARE SUCCESS OR FAIL:true
+2018-09-04 19:33:22 [http-nio-8099-exec-5] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][307]->compare success
+2018-09-04 19:33:22 [http-nio-8099-exec-6] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][289]->-----------------compareFaceSimilarityValue==1.0
+2018-09-04 19:33:22 [http-nio-8099-exec-6] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][298]->COMPARE SUCCESS OR FAIL:true
+2018-09-04 19:33:22 [http-nio-8099-exec-6] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][307]->compare success
+2018-09-04 19:33:23 [http-nio-8099-exec-7] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][289]->-----------------compareFaceSimilarityValue==1.0
+2018-09-04 19:33:23 [http-nio-8099-exec-7] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][298]->COMPARE SUCCESS OR FAIL:true
+2018-09-04 19:33:23 [http-nio-8099-exec-7] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][307]->compare success
+2018-09-04 19:33:24 [http-nio-8099-exec-8] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][289]->-----------------compareFaceSimilarityValue==1.0
+2018-09-04 19:33:24 [http-nio-8099-exec-8] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][298]->COMPARE SUCCESS OR FAIL:true
+2018-09-04 19:33:24 [http-nio-8099-exec-8] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][307]->compare success
+2018-09-04 19:33:25 [http-nio-8099-exec-9] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][289]->-----------------compareFaceSimilarityValue==1.0
+2018-09-04 19:33:25 [http-nio-8099-exec-9] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][298]->COMPARE SUCCESS OR FAIL:true
+2018-09-04 19:33:25 [http-nio-8099-exec-9] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][307]->compare success
+2018-09-04 19:33:25 [http-nio-8099-exec-10] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][289]->-----------------compareFaceSimilarityValue==1.0
+2018-09-04 19:33:25 [http-nio-8099-exec-10] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][298]->COMPARE SUCCESS OR FAIL:true
+2018-09-04 19:33:25 [http-nio-8099-exec-10] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][307]->compare success
+2018-09-04 19:33:26 [http-nio-8099-exec-1] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][289]->-----------------compareFaceSimilarityValue==1.0
+2018-09-04 19:33:26 [http-nio-8099-exec-1] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][298]->COMPARE SUCCESS OR FAIL:true
+2018-09-04 19:33:26 [http-nio-8099-exec-1] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][307]->compare success
+2018-09-04 19:33:27 [http-nio-8099-exec-2] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][289]->-----------------compareFaceSimilarityValue==1.0
+2018-09-04 19:33:27 [http-nio-8099-exec-2] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][298]->COMPARE SUCCESS OR FAIL:true
+2018-09-04 19:33:27 [http-nio-8099-exec-2] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][307]->compare success
+2018-09-04 19:33:27 [http-nio-8099-exec-3] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][289]->-----------------compareFaceSimilarityValue==1.0
+2018-09-04 19:33:27 [http-nio-8099-exec-3] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][298]->COMPARE SUCCESS OR FAIL:true
+2018-09-04 19:33:27 [http-nio-8099-exec-3] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][307]->compare success
+2018-09-04 19:33:28 [http-nio-8099-exec-4] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][289]->-----------------compareFaceSimilarityValue==1.0
+2018-09-04 19:33:28 [http-nio-8099-exec-4] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][298]->COMPARE SUCCESS OR FAIL:true
+2018-09-04 19:33:28 [http-nio-8099-exec-4] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][307]->compare success
+2018-09-04 19:33:28 [http-nio-8099-exec-5] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][289]->-----------------compareFaceSimilarityValue==1.0
+2018-09-04 19:33:28 [http-nio-8099-exec-5] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][298]->COMPARE SUCCESS OR FAIL:true
+2018-09-04 19:33:28 [http-nio-8099-exec-5] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][307]->compare success
+2018-09-04 19:33:28 [http-nio-8099-exec-6] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][289]->-----------------compareFaceSimilarityValue==1.0
+2018-09-04 19:33:28 [http-nio-8099-exec-6] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][298]->COMPARE SUCCESS OR FAIL:true
+2018-09-04 19:33:28 [http-nio-8099-exec-6] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][307]->compare success
+2018-09-04 19:33:29 [http-nio-8099-exec-7] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][289]->-----------------compareFaceSimilarityValue==1.0
+2018-09-04 19:33:29 [http-nio-8099-exec-7] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][298]->COMPARE SUCCESS OR FAIL:true
+2018-09-04 19:33:29 [http-nio-8099-exec-7] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][307]->compare success
+2018-09-04 19:33:29 [http-nio-8099-exec-8] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][289]->-----------------compareFaceSimilarityValue==1.0
+2018-09-04 19:33:29 [http-nio-8099-exec-8] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][298]->COMPARE SUCCESS OR FAIL:true
+2018-09-04 19:33:29 [http-nio-8099-exec-8] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][307]->compare success
+2018-09-04 19:33:47 [http-nio-8099-exec-9] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRegister][113]->new file name is 582a06f5-fc3e-4197-b41e-c8457bc6d876_llj1.jpg
+2018-09-04 19:33:47 [http-nio-8099-exec-9] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRegister][116]->new file name is 582a06f5-fc3e-4197-b41e-c8457bc6d876_llj1.jpg
+2018-09-04 19:33:55 [http-nio-8099-exec-10] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][289]->-----------------compareFaceSimilarityValue==1.0
+2018-09-04 19:33:55 [http-nio-8099-exec-10] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][298]->COMPARE SUCCESS OR FAIL:true
+2018-09-04 19:33:55 [http-nio-8099-exec-10] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][307]->compare success
+2018-09-04 19:34:01 [http-nio-8099-exec-1] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][289]->-----------------compareFaceSimilarityValue==0.669164
+2018-09-04 19:34:01 [http-nio-8099-exec-1] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][289]->-----------------compareFaceSimilarityValue==0.0
+2018-09-04 19:34:01 [http-nio-8099-exec-1] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][298]->COMPARE SUCCESS OR FAIL:false
+2018-09-04 19:34:01 [http-nio-8099-exec-1] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][317]->compare fail
+2018-09-04 19:34:05 [http-nio-8099-exec-2] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][289]->-----------------compareFaceSimilarityValue==0.669164
+2018-09-04 19:34:05 [http-nio-8099-exec-2] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][289]->-----------------compareFaceSimilarityValue==0.0
+2018-09-04 19:34:05 [http-nio-8099-exec-2] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][298]->COMPARE SUCCESS OR FAIL:false
+2018-09-04 19:34:05 [http-nio-8099-exec-2] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][317]->compare fail
+2018-09-04 19:34:06 [http-nio-8099-exec-3] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][289]->-----------------compareFaceSimilarityValue==0.669164
+2018-09-04 19:34:06 [http-nio-8099-exec-3] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][289]->-----------------compareFaceSimilarityValue==0.0
+2018-09-04 19:34:06 [http-nio-8099-exec-3] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][298]->COMPARE SUCCESS OR FAIL:false
+2018-09-04 19:34:06 [http-nio-8099-exec-3] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][317]->compare fail
+2018-09-04 19:34:06 [http-nio-8099-exec-4] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][289]->-----------------compareFaceSimilarityValue==0.669164
+2018-09-04 19:34:06 [http-nio-8099-exec-4] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][289]->-----------------compareFaceSimilarityValue==0.0
+2018-09-04 19:34:06 [http-nio-8099-exec-4] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][298]->COMPARE SUCCESS OR FAIL:false
+2018-09-04 19:34:06 [http-nio-8099-exec-4] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][317]->compare fail
+2018-09-04 19:34:11 [http-nio-8099-exec-5] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][289]->-----------------compareFaceSimilarityValue==1.0
+2018-09-04 19:34:11 [http-nio-8099-exec-5] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][298]->COMPARE SUCCESS OR FAIL:true
+2018-09-04 19:34:11 [http-nio-8099-exec-5] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][307]->compare success
+2018-09-04 19:34:15 [http-nio-8099-exec-6] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][289]->-----------------compareFaceSimilarityValue==0.669164
+2018-09-04 19:34:15 [http-nio-8099-exec-6] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][289]->-----------------compareFaceSimilarityValue==0.0
+2018-09-04 19:34:15 [http-nio-8099-exec-6] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][298]->COMPARE SUCCESS OR FAIL:false
+2018-09-04 19:34:15 [http-nio-8099-exec-6] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][317]->compare fail
+2018-09-04 19:34:29 [http-nio-8099-exec-7] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][289]->-----------------compareFaceSimilarityValue==1.0
+2018-09-04 19:34:29 [http-nio-8099-exec-7] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][298]->COMPARE SUCCESS OR FAIL:true
+2018-09-04 19:34:29 [http-nio-8099-exec-7] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][307]->compare success
+2018-09-04 19:35:24 [http-nio-8099-exec-8] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRegister][113]->new file name is 0c152f38-0331-4368-8944-167beeceb96c_llj1.jpg
+2018-09-04 19:35:24 [http-nio-8099-exec-8] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRegister][116]->new file name is 0c152f38-0331-4368-8944-167beeceb96c_llj1.jpg
+2018-09-04 19:38:07 [http-nio-8099-exec-10] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRegister][113]->new file name is 572aab46-9478-4dae-859e-3913a1fcde66_llj1.jpg
+2018-09-04 19:38:07 [http-nio-8099-exec-10] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRegister][116]->new file name is 572aab46-9478-4dae-859e-3913a1fcde66_llj1.jpg
+2018-09-04 19:38:15 [http-nio-8099-exec-1] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRegister][113]->new file name is 70e780d3-f863-4e50-b8dc-10a49424e580_llj1.jpg
+2018-09-04 19:38:15 [http-nio-8099-exec-1] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRegister][116]->new file name is 70e780d3-f863-4e50-b8dc-10a49424e580_llj1.jpg
+2018-09-04 19:38:23 [http-nio-8099-exec-2] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][289]->-----------------compareFaceSimilarityValue==0.24644528
+2018-09-04 19:38:23 [http-nio-8099-exec-2] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][289]->-----------------compareFaceSimilarityValue==0.0
+2018-09-04 19:38:24 [http-nio-8099-exec-2] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][289]->-----------------compareFaceSimilarityValue==0.0
+2018-09-04 19:38:24 [http-nio-8099-exec-2] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][298]->COMPARE SUCCESS OR FAIL:false
+2018-09-04 19:38:24 [http-nio-8099-exec-2] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][317]->compare fail
+2018-09-04 19:38:29 [http-nio-8099-exec-3] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][289]->-----------------compareFaceSimilarityValue==0.669164
+2018-09-04 19:38:29 [http-nio-8099-exec-3] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][289]->-----------------compareFaceSimilarityValue==0.0
+2018-09-04 19:38:29 [http-nio-8099-exec-3] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][289]->-----------------compareFaceSimilarityValue==0.0
+2018-09-04 19:38:29 [http-nio-8099-exec-3] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][298]->COMPARE SUCCESS OR FAIL:false
+2018-09-04 19:38:29 [http-nio-8099-exec-3] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][317]->compare fail
+2018-09-04 19:38:32 [http-nio-8099-exec-4] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][289]->-----------------compareFaceSimilarityValue==1.0
+2018-09-04 19:38:32 [http-nio-8099-exec-4] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][298]->COMPARE SUCCESS OR FAIL:true
+2018-09-04 19:38:32 [http-nio-8099-exec-4] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][307]->compare success
+2018-09-04 19:39:46 [http-nio-8099-exec-6] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRegister][113]->new file name is c64f9a01-7a8a-4890-9229-6da6fc919ce3_111.jpg
+2018-09-04 19:39:46 [http-nio-8099-exec-6] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRegister][116]->new file name is c64f9a01-7a8a-4890-9229-6da6fc919ce3_111.jpg
+2018-09-04 19:39:59 [http-nio-8099-exec-7] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRegister][113]->new file name is 67b75d7c-ce36-422c-ad9a-99820d7ef60d_2222.jpg
+2018-09-04 19:39:59 [http-nio-8099-exec-7] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRegister][116]->new file name is 67b75d7c-ce36-422c-ad9a-99820d7ef60d_2222.jpg
+2018-09-04 19:40:08 [http-nio-8099-exec-8] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][289]->-----------------compareFaceSimilarityValue==0.26747143
+2018-09-04 19:40:08 [http-nio-8099-exec-8] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][289]->-----------------compareFaceSimilarityValue==0.0
+2018-09-04 19:40:08 [http-nio-8099-exec-8] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][298]->COMPARE SUCCESS OR FAIL:false
+2018-09-04 19:40:08 [http-nio-8099-exec-8] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][317]->compare fail
+2018-09-04 19:40:16 [http-nio-8099-exec-9] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][289]->-----------------compareFaceSimilarityValue==1.0
+2018-09-04 19:40:16 [http-nio-8099-exec-9] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][298]->COMPARE SUCCESS OR FAIL:true
+2018-09-04 19:40:16 [http-nio-8099-exec-9] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][307]->compare success
+2018-09-04 19:40:28 [http-nio-8099-exec-1] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][289]->-----------------compareFaceSimilarityValue==0.80703557
+2018-09-04 19:40:28 [http-nio-8099-exec-1] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][298]->COMPARE SUCCESS OR FAIL:true
+2018-09-04 19:40:28 [http-nio-8099-exec-1] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][307]->compare success
+2018-09-04 19:41:07 [restartedMain] [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][50]->Starting ArcfacedemoFirstApplication on PC140046 with PID 9880 (E:\ArcFaceDemo\arcfacedemo-first\arcfacedemo-first\target\classes started by zhuyl in E:\ArcFaceDemo\arcfacedemo-first\arcfacedemo-first)
+2018-09-04 19:41:07 [restartedMain] [DEBUG][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][53]->Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+2018-09-04 19:41:07 [restartedMain] [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStartupProfileInfo][666]->The following profiles are active: dev
+2018-09-04 19:41:08 [restartedMain] [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarted][59]->Started ArcfacedemoFirstApplication in 0.465 seconds (JVM running for 2370.497)
+2018-09-04 19:41:56 [http-nio-8099-exec-1] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][289]->-----------------compareFaceSimilarityValue==0.26747143
+2018-09-04 19:41:56 [http-nio-8099-exec-1] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][289]->-----------------compareFaceSimilarityValue==0.0
+2018-09-04 19:41:56 [http-nio-8099-exec-1] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][299]->COMPARE SUCCESS OR FAIL:false
+2018-09-04 19:41:56 [http-nio-8099-exec-1] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][318]->compare fail
+2018-09-04 19:43:15 [http-nio-8099-exec-3] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][289]->-----------------compareFaceSimilarityValue==0.26747143
+2018-09-04 19:43:15 [http-nio-8099-exec-3] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][289]->-----------------compareFaceSimilarityValue==0.0
+2018-09-04 19:43:15 [http-nio-8099-exec-3] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][299]->COMPARE SUCCESS OR FAIL:false
+2018-09-04 19:43:15 [http-nio-8099-exec-3] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][318]->compare fail
+2018-09-04 19:43:31 [http-nio-8099-exec-4] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][289]->-----------------compareFaceSimilarityValue==0.80703557
+2018-09-04 19:43:31 [http-nio-8099-exec-4] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][299]->COMPARE SUCCESS OR FAIL:true
+2018-09-04 19:43:31 [http-nio-8099-exec-4] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][308]->compare success
+2018-09-04 19:45:52 [restartedMain] [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][50]->Starting ArcfacedemoFirstApplication on PC140046 with PID 9880 (E:\ArcFaceDemo\arcfacedemo-first\arcfacedemo-first\target\classes started by zhuyl in E:\ArcFaceDemo\arcfacedemo-first\arcfacedemo-first)
+2018-09-04 19:45:52 [restartedMain] [DEBUG][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][53]->Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+2018-09-04 19:45:52 [restartedMain] [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStartupProfileInfo][666]->The following profiles are active: dev
+2018-09-04 19:45:52 [restartedMain] [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarted][59]->Started ArcfacedemoFirstApplication in 0.456 seconds (JVM running for 2655.241)
+2018-09-04 19:47:08 [restartedMain] [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][50]->Starting ArcfacedemoFirstApplication on PC140046 with PID 9880 (E:\ArcFaceDemo\arcfacedemo-first\arcfacedemo-first\target\classes started by zhuyl in E:\ArcFaceDemo\arcfacedemo-first\arcfacedemo-first)
+2018-09-04 19:47:08 [restartedMain] [DEBUG][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][53]->Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+2018-09-04 19:47:08 [restartedMain] [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStartupProfileInfo][666]->The following profiles are active: dev
+2018-09-04 19:47:09 [restartedMain] [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarted][59]->Started ArcfacedemoFirstApplication in 0.454 seconds (JVM running for 2731.537)
+2018-09-04 19:47:15 [http-nio-8099-exec-1] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][289]->-----------------compareFaceSimilarityValue==0.80703557
+2018-09-04 19:47:15 [http-nio-8099-exec-1] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][299]->COMPARE SUCCESS OR FAIL:true
+2018-09-04 19:47:15 [http-nio-8099-exec-1] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][308]->compare success
+2018-09-04 19:47:54 [http-nio-8099-exec-3] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][289]->-----------------compareFaceSimilarityValue==1.0
+2018-09-04 19:47:54 [http-nio-8099-exec-3] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][299]->COMPARE SUCCESS OR FAIL:true
+2018-09-04 19:47:54 [http-nio-8099-exec-3] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][308]->compare success
+2018-09-04 19:48:55 [http-nio-8099-exec-5] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRegister][113]->new file name is 1e56dc5e-e4cf-4342-925c-8e71cabfb668_mayun1.jpg
+2018-09-04 19:48:55 [http-nio-8099-exec-5] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRegister][116]->new file name is 1e56dc5e-e4cf-4342-925c-8e71cabfb668_mayun1.jpg
+2018-09-04 19:49:05 [http-nio-8099-exec-6] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRegister][113]->new file name is a5c0de5a-b7ed-4779-a3e4-18b55672462e_liudehua1.jpg
+2018-09-04 19:49:05 [http-nio-8099-exec-6] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRegister][116]->new file name is a5c0de5a-b7ed-4779-a3e4-18b55672462e_liudehua1.jpg
+2018-09-04 19:49:18 [http-nio-8099-exec-7] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRegister][113]->new file name is 4ccb9146-e0cd-45ad-a055-b16bc518a4a8_llj1.jpg
+2018-09-04 19:49:18 [http-nio-8099-exec-7] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRegister][116]->new file name is 4ccb9146-e0cd-45ad-a055-b16bc518a4a8_llj1.jpg
+2018-09-04 19:49:29 [http-nio-8099-exec-8] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][289]->-----------------compareFaceSimilarityValue==1.0
+2018-09-04 19:49:29 [http-nio-8099-exec-8] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][299]->COMPARE SUCCESS OR FAIL:true
+2018-09-04 19:49:29 [http-nio-8099-exec-8] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][308]->compare success
+2018-09-04 19:50:08 [http-nio-8099-exec-10] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][289]->-----------------compareFaceSimilarityValue==0.26747143
+2018-09-04 19:50:08 [http-nio-8099-exec-10] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][289]->-----------------compareFaceSimilarityValue==0.0
+2018-09-04 19:50:08 [http-nio-8099-exec-10] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][289]->-----------------compareFaceSimilarityValue==0.0
+2018-09-04 19:50:08 [http-nio-8099-exec-10] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][299]->COMPARE SUCCESS OR FAIL:false
+2018-09-04 19:50:08 [http-nio-8099-exec-10] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][318]->compare fail
+2018-09-04 19:50:55 [restartedMain] [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][50]->Starting ArcfacedemoFirstApplication on PC140046 with PID 9880 (E:\ArcFaceDemo\arcfacedemo-first\arcfacedemo-first\target\classes started by zhuyl in E:\ArcFaceDemo\arcfacedemo-first\arcfacedemo-first)
+2018-09-04 19:50:55 [restartedMain] [DEBUG][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][53]->Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+2018-09-04 19:50:55 [restartedMain] [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStartupProfileInfo][666]->The following profiles are active: dev
+2018-09-04 19:50:55 [restartedMain] [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarted][59]->Started ArcfacedemoFirstApplication in 0.449 seconds (JVM running for 2958.234)
+2018-09-04 19:51:14 [http-nio-8099-exec-1] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][290]->-----------------compareFaceSimilarityValue==0.26747143
+2018-09-04 19:51:14 [http-nio-8099-exec-1] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][290]->-----------------compareFaceSimilarityValue==0.0
+2018-09-04 19:51:14 [http-nio-8099-exec-1] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][290]->-----------------compareFaceSimilarityValue==0.0
+2018-09-04 19:51:14 [http-nio-8099-exec-1] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][300]->COMPARE SUCCESS OR FAIL:false
+2018-09-04 19:51:14 [http-nio-8099-exec-1] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][319]->compare fail
+2018-09-04 19:52:43 [http-nio-8099-exec-3] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][290]->-----------------compareFaceSimilarityValue==1.0
+2018-09-04 19:52:43 [http-nio-8099-exec-3] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][300]->COMPARE SUCCESS OR FAIL:true
+2018-09-04 19:52:43 [http-nio-8099-exec-3] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][309]->compare success
+2018-09-04 19:53:34 [http-nio-8099-exec-4] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][290]->-----------------compareFaceSimilarityValue==0.26747143
+2018-09-04 19:53:34 [http-nio-8099-exec-4] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][290]->-----------------compareFaceSimilarityValue==0.0
+2018-09-04 19:53:34 [http-nio-8099-exec-4] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][290]->-----------------compareFaceSimilarityValue==0.0
+2018-09-04 19:53:34 [http-nio-8099-exec-4] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][300]->COMPARE SUCCESS OR FAIL:false
+2018-09-04 19:53:34 [http-nio-8099-exec-4] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][319]->compare fail
+2018-09-04 19:55:16 [restartedMain] [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][50]->Starting ArcfacedemoFirstApplication on PC140046 with PID 9880 (E:\ArcFaceDemo\arcfacedemo-first\arcfacedemo-first\target\classes started by zhuyl in E:\ArcFaceDemo\arcfacedemo-first\arcfacedemo-first)
+2018-09-04 19:55:16 [restartedMain] [DEBUG][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][53]->Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+2018-09-04 19:55:16 [restartedMain] [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStartupProfileInfo][666]->The following profiles are active: dev
+2018-09-04 19:55:17 [restartedMain] [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarted][59]->Started ArcfacedemoFirstApplication in 0.451 seconds (JVM running for 3219.602)
+2018-09-04 19:57:20 [http-nio-8099-exec-1] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][290]->-----------------compareFaceSimilarityValue==1.0
+2018-09-04 19:57:20 [http-nio-8099-exec-1] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][300]->COMPARE SUCCESS OR FAIL:true
+2018-09-04 19:57:20 [http-nio-8099-exec-1] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][309]->compare success
+2018-09-04 19:58:33 [restartedMain] [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][50]->Starting ArcfacedemoFirstApplication on PC140046 with PID 9880 (E:\ArcFaceDemo\arcfacedemo-first\arcfacedemo-first\target\classes started by zhuyl in E:\ArcFaceDemo\arcfacedemo-first\arcfacedemo-first)
+2018-09-04 19:58:33 [restartedMain] [DEBUG][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][53]->Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+2018-09-04 19:58:33 [restartedMain] [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStartupProfileInfo][666]->The following profiles are active: dev
+2018-09-04 19:58:34 [restartedMain] [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarted][59]->Started ArcfacedemoFirstApplication in 0.453 seconds (JVM running for 3416.236)
+2018-09-04 19:58:36 [restartedMain] [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][50]->Starting ArcfacedemoFirstApplication on PC140046 with PID 9880 (E:\ArcFaceDemo\arcfacedemo-first\arcfacedemo-first\target\classes started by zhuyl in E:\ArcFaceDemo\arcfacedemo-first\arcfacedemo-first)
+2018-09-04 19:58:36 [restartedMain] [DEBUG][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][53]->Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+2018-09-04 19:58:36 [restartedMain] [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStartupProfileInfo][666]->The following profiles are active: dev
+2018-09-04 19:58:37 [restartedMain] [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarted][59]->Started ArcfacedemoFirstApplication in 0.458 seconds (JVM running for 3419.331)
+2018-09-04 19:58:42 [http-nio-8099-exec-1] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][290]->-----------------compareFaceSimilarityValue==1.0
+2018-09-04 19:58:42 [http-nio-8099-exec-1] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][300]->COMPARE SUCCESS OR FAIL:true
+2018-09-04 19:58:42 [http-nio-8099-exec-1] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][309]->compare success
+2018-09-04 19:58:47 [http-nio-8099-exec-2] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][290]->-----------------compareFaceSimilarityValue==0.77319664
+2018-09-04 19:58:47 [http-nio-8099-exec-2] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][300]->COMPARE SUCCESS OR FAIL:true
+2018-09-04 19:58:47 [http-nio-8099-exec-2] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][309]->compare success
+2018-09-04 19:58:54 [http-nio-8099-exec-3] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][290]->-----------------compareFaceSimilarityValue==0.29315025
+2018-09-04 19:58:54 [http-nio-8099-exec-3] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][290]->-----------------compareFaceSimilarityValue==0.0
+2018-09-04 19:58:54 [http-nio-8099-exec-3] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][290]->-----------------compareFaceSimilarityValue==0.0
+2018-09-04 19:58:54 [http-nio-8099-exec-3] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][300]->COMPARE SUCCESS OR FAIL:false
+2018-09-04 19:58:54 [http-nio-8099-exec-3] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][319]->compare fail
+2018-09-04 20:00:11 [restartedMain] [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][50]->Starting ArcfacedemoFirstApplication on PC140046 with PID 9880 (E:\ArcFaceDemo\arcfacedemo-first\arcfacedemo-first\target\classes started by zhuyl in E:\ArcFaceDemo\arcfacedemo-first\arcfacedemo-first)
+2018-09-04 20:00:11 [restartedMain] [DEBUG][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][53]->Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+2018-09-04 20:00:11 [restartedMain] [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStartupProfileInfo][666]->The following profiles are active: dev
+2018-09-04 20:00:12 [restartedMain] [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarted][59]->Started ArcfacedemoFirstApplication in 0.468 seconds (JVM running for 3514.438)
+2018-09-04 20:00:26 [restartedMain] [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][50]->Starting ArcfacedemoFirstApplication on PC140046 with PID 9880 (E:\ArcFaceDemo\arcfacedemo-first\arcfacedemo-first\target\classes started by zhuyl in E:\ArcFaceDemo\arcfacedemo-first\arcfacedemo-first)
+2018-09-04 20:00:26 [restartedMain] [DEBUG][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][53]->Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+2018-09-04 20:00:26 [restartedMain] [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStartupProfileInfo][666]->The following profiles are active: dev
+2018-09-04 20:00:26 [restartedMain] [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarted][59]->Started ArcfacedemoFirstApplication in 0.491 seconds (JVM running for 3528.855)
+2018-09-04 20:00:30 [http-nio-8099-exec-1] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][292]->-----------------compareFaceSimilarityValue==0.29315025
+2018-09-04 20:00:30 [http-nio-8099-exec-1] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][292]->-----------------compareFaceSimilarityValue==0.0
+2018-09-04 20:00:30 [http-nio-8099-exec-1] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][292]->-----------------compareFaceSimilarityValue==0.0
+2018-09-04 20:00:30 [http-nio-8099-exec-1] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][302]->COMPARE SUCCESS OR FAIL:false
+2018-09-04 20:00:30 [http-nio-8099-exec-1] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][321]->compare fail
+2018-09-04 20:01:15 [restartedMain] [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][50]->Starting ArcfacedemoFirstApplication on PC140046 with PID 9880 (E:\ArcFaceDemo\arcfacedemo-first\arcfacedemo-first\target\classes started by zhuyl in E:\ArcFaceDemo\arcfacedemo-first\arcfacedemo-first)
+2018-09-04 20:01:15 [restartedMain] [DEBUG][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][53]->Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+2018-09-04 20:01:15 [restartedMain] [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStartupProfileInfo][666]->The following profiles are active: dev
+2018-09-04 20:01:15 [restartedMain] [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarted][59]->Started ArcfacedemoFirstApplication in 0.448 seconds (JVM running for 3577.956)
+2018-09-04 20:06:11 [http-nio-8099-exec-1] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][292]->-----------------compareFaceSimilarityValue==0.29315025
+2018-09-04 20:06:11 [http-nio-8099-exec-1] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][292]->-----------------compareFaceSimilarityValue==0.0
+2018-09-04 20:06:11 [http-nio-8099-exec-1] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][292]->-----------------compareFaceSimilarityValue==0.0
+2018-09-04 20:06:11 [http-nio-8099-exec-1] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][303]->COMPARE SUCCESS OR FAIL:false
+2018-09-04 20:06:11 [http-nio-8099-exec-1] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][322]->compare fail
+2018-09-04 20:08:29 [restartedMain] [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][50]->Starting ArcfacedemoFirstApplication on PC140046 with PID 9880 (E:\ArcFaceDemo\arcfacedemo-first\arcfacedemo-first\target\classes started by zhuyl in E:\ArcFaceDemo\arcfacedemo-first\arcfacedemo-first)
+2018-09-04 20:08:29 [restartedMain] [DEBUG][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][53]->Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+2018-09-04 20:08:29 [restartedMain] [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStartupProfileInfo][666]->The following profiles are active: dev
+2018-09-04 20:08:29 [restartedMain] [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarted][59]->Started ArcfacedemoFirstApplication in 0.449 seconds (JVM running for 4012.269)
+2018-09-04 20:08:33 [http-nio-8099-exec-1] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][292]->-----------------compareFaceSimilarityValue==0.29315025
+2018-09-04 20:08:33 [http-nio-8099-exec-1] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][292]->-----------------compareFaceSimilarityValue==0.4087243
+2018-09-04 20:08:34 [http-nio-8099-exec-1] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][292]->-----------------compareFaceSimilarityValue==1.0
+2018-09-04 20:08:34 [http-nio-8099-exec-1] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][303]->COMPARE SUCCESS OR FAIL:true
+2018-09-04 20:08:34 [http-nio-8099-exec-1] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][312]->compare success
+2018-09-04 20:08:42 [http-nio-8099-exec-2] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][292]->-----------------compareFaceSimilarityValue==0.26747143
+2018-09-04 20:08:42 [http-nio-8099-exec-2] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][292]->-----------------compareFaceSimilarityValue==1.0
+2018-09-04 20:08:42 [http-nio-8099-exec-2] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][303]->COMPARE SUCCESS OR FAIL:true
+2018-09-04 20:08:42 [http-nio-8099-exec-2] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][312]->compare success
+2018-09-04 20:09:17 [restartedMain] [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][50]->Starting ArcfacedemoFirstApplication on PC140046 with PID 9880 (E:\ArcFaceDemo\arcfacedemo-first\arcfacedemo-first\target\classes started by zhuyl in E:\ArcFaceDemo\arcfacedemo-first\arcfacedemo-first)
+2018-09-04 20:09:17 [restartedMain] [DEBUG][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][53]->Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+2018-09-04 20:09:17 [restartedMain] [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStartupProfileInfo][666]->The following profiles are active: dev
+2018-09-04 20:09:17 [restartedMain] [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarted][59]->Started ArcfacedemoFirstApplication in 0.455 seconds (JVM running for 4060.277)
+2018-09-04 20:10:14 [restartedMain] [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][50]->Starting ArcfacedemoFirstApplication on PC140046 with PID 9880 (E:\ArcFaceDemo\arcfacedemo-first\arcfacedemo-first\target\classes started by zhuyl in E:\ArcFaceDemo\arcfacedemo-first\arcfacedemo-first)
+2018-09-04 20:10:14 [restartedMain] [DEBUG][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][53]->Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+2018-09-04 20:10:14 [restartedMain] [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStartupProfileInfo][666]->The following profiles are active: dev
+2018-09-04 20:10:14 [restartedMain] [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarted][59]->Started ArcfacedemoFirstApplication in 0.442 seconds (JVM running for 4117.265)
+2018-09-04 20:10:27 [restartedMain] [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][50]->Starting ArcfacedemoFirstApplication on PC140046 with PID 9880 (E:\ArcFaceDemo\arcfacedemo-first\arcfacedemo-first\target\classes started by zhuyl in E:\ArcFaceDemo\arcfacedemo-first\arcfacedemo-first)
+2018-09-04 20:10:27 [restartedMain] [DEBUG][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][53]->Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+2018-09-04 20:10:27 [restartedMain] [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStartupProfileInfo][666]->The following profiles are active: dev
+2018-09-04 20:10:27 [restartedMain] [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarted][59]->Started ArcfacedemoFirstApplication in 0.439 seconds (JVM running for 4130.514)
+2018-09-04 20:10:32 [http-nio-8099-exec-1] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][291]->compareFaceSimilarityValue==0.26747143
+2018-09-04 20:10:32 [http-nio-8099-exec-1] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][291]->compareFaceSimilarityValue==1.0
+2018-09-04 20:10:32 [http-nio-8099-exec-1] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][303]->COMPARE SUCCESS OR FAIL:true
+2018-09-04 20:10:32 [http-nio-8099-exec-1] [DEBUG][com.hoperun.arcfacedemo.controller.FaceRecognitionController][userFaceRecognize][312]->compare success
+2018-09-04 20:11:15 [restartedMain] [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][50]->Starting ArcfacedemoFirstApplication on PC140046 with PID 9880 (E:\ArcFaceDemo\arcfacedemo-first\arcfacedemo-first\target\classes started by zhuyl in E:\ArcFaceDemo\arcfacedemo-first\arcfacedemo-first)
+2018-09-04 20:11:15 [restartedMain] [DEBUG][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][53]->Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+2018-09-04 20:11:15 [restartedMain] [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStartupProfileInfo][666]->The following profiles are active: dev
+2018-09-04 20:11:15 [restartedMain] [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarted][59]->Started ArcfacedemoFirstApplication in 0.456 seconds (JVM running for 4178.493)
+2018-09-04 20:11:17 [restartedMain] [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][50]->Starting ArcfacedemoFirstApplication on PC140046 with PID 9880 (E:\ArcFaceDemo\arcfacedemo-first\arcfacedemo-first\target\classes started by zhuyl in E:\ArcFaceDemo\arcfacedemo-first\arcfacedemo-first)
+2018-09-04 20:11:17 [restartedMain] [DEBUG][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][53]->Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+2018-09-04 20:11:17 [restartedMain] [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStartupProfileInfo][666]->The following profiles are active: dev
+2018-09-04 20:11:17 [restartedMain] [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarted][59]->Started ArcfacedemoFirstApplication in 0.436 seconds (JVM running for 4180.589)
+2018-09-04 20:12:28 [restartedMain] [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarting][50]->Starting ArcfacedemoFirstApplication on PC140046 with PID 9880 (E:\ArcFaceDemo\arcfacedemo-first\arcfacedemo-first\target\classes started by zhuyl in E:\ArcFaceDemo\arcfacedemo-first\arcfacedemo-first)
+2018-09-04 20:12:28 [restartedMain] [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStartupProfileInfo][666]->The following profiles are active: prod
+2018-09-04 20:12:29 [restartedMain] [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplication][logStarted][59]->Started ArcfacedemoFirstApplication in 0.45 seconds (JVM running for 4251.836)
+2018-09-04 20:12:58 [main] [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplicationTests][logStarting][50]->Starting ArcfacedemoFirstApplicationTests on PC140046 with PID 31924 (started by zhuyl in E:\ArcFaceDemo\arcfacedemo-first\arcfacedemo-first)
+2018-09-04 20:12:58 [main] [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplicationTests][logStartupProfileInfo][666]->The following profiles are active: prod
+2018-09-04 20:13:00 [main] [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplicationTests][logStarted][59]->Started ArcfacedemoFirstApplicationTests in 2.782 seconds (JVM running for 3.633)
+2018-09-04 20:13:55 [main] [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplicationTests][logStarting][50]->Starting ArcfacedemoFirstApplicationTests on PC140046 with PID 8848 (started by zhuyl in E:\ArcFaceDemo\arcfacedemo-first\arcfacedemo-first)
+2018-09-04 20:13:55 [main] [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplicationTests][logStartupProfileInfo][666]->The following profiles are active: prod
+2018-09-04 20:13:57 [main] [INFO][com.hoperun.arcfacedemo.ArcfacedemoFirstApplicationTests][logStarted][59]->Started ArcfacedemoFirstApplicationTests in 2.872 seconds (JVM running for 3.62)

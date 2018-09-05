@@ -1,6 +1,7 @@
 package com.hoperun.arcfacedemo.arcsoft.entity;
 
-public class _AFD_FSDK_OrientCode {
+public class _AFD_FSDK_OrientCode
+{
     public static final int AFD_FSDK_FOC_0 = 0x1;// 0 degree
     public static final int AFD_FSDK_FOC_90 = 0x2; // 90 degree
     public static final int AFD_FSDK_FOC_270 = 0x3; // 270 degree

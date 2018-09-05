@@ -70,7 +70,7 @@
 	</dependencies>
 
 	<build>
-		<finalName>arcface-reg</finalName>
+		<finalName>arcface-reg-v1.0</finalName>
 		<!-- <resources>
 			<resource>
 				<directory>${project.basedir}</directory>
