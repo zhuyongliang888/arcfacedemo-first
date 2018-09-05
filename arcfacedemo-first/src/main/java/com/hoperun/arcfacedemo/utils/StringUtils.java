@@ -408,7 +408,7 @@ public final class StringUtils
 	return Pattern.matches(pattern, str);
     }
 
-    /*
+    /**
      * 手机号验证
      * 
      * @param str

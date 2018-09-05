@@ -161,9 +161,10 @@ public class FaceRecognitionController
 	
 	
 	//测试一下
-	List<Map<String, String>> testList = (List<Map<String,String>>)redisUtils.getObject(DEVICE_ID);
-	Map<String,String> tempMap =testList.get(0);
-	System.out.println("从redis中再取出后的特征值\n"+tempMap.get(FACEMODE));
+//	@SuppressWarnings("unchecked")
+//	List<Map<String, String>> testList = (List<Map<String,String>>)redisUtils.getObject(DEVICE_ID);
+//	Map<String,String> tempMap =testList.get(0);
+//	System.out.println("从redis中再取出后的特征值\n"+tempMap.get(FACEMODE));
 
 	commonResponseBody.setCode(0);
 	commonResponseBody.setMessage("SUCCESS!");
@@ -261,6 +262,7 @@ public class FaceRecognitionController
 	System.out.println("faceModeStringList.size()=="+faceModeStringList.size());
 	//判断图片能否识别
 	boolean isSuccess = false;
+	String resultName ="";
 	for (int i=0;i<faceModeStringList.size();i++)
 	{   Map<String, String> tempMap = faceModeStringList.get(i);
 	    String tempFaceModeString = tempMap.get(FACEMODE);
@@ -293,6 +295,7 @@ public class FaceRecognitionController
 		{
 		    System.out.println("recognize success!");
 		    isSuccess = true;
+		    resultName = tempMap.get(P_NAME);
 		    
 		    break;
 		}
@@ -307,6 +310,7 @@ public class FaceRecognitionController
 	    commonDataResponse.setCode(0);
 	    commonDataResponse.setMessage("compare success!");
 	    tempResultMap.put("recognition", true);
+	    tempResultMap.put("name", resultName);
 	    commonDataResponse.setData(tempResultMap);
 	    response.setStatus(200);
 	    LOGGER.debug("compare success");

@@ -32,8 +32,10 @@ public class ArcfaceUtils
     public static final String FD_SDKKEY = Constant.FD_SDKKEY;
     public static final String FR_SDKKEY = Constant.FR_SDKKEY;
 
+    //单位 byte
     public static final int FD_WORKBUF_SIZE = 20 * 1024 * 1024;
     public static final int FR_WORKBUF_SIZE = 40 * 1024 * 1024;
+    
     public static final int MAX_FACE_NUM = 50;
 
     public static final boolean bUseRAWFile = false;
@@ -50,16 +52,19 @@ public class ArcfaceUtils
 	PointerByReference phFDEngine = new PointerByReference();
 	NativeLong ret = AFD_FSDKLibrary.INSTANCE.AFD_FSDK_InitialFaceEngine(APPID, FD_SDKKEY, pFDWorkMem,
 		FD_WORKBUF_SIZE, phFDEngine, _AFD_FSDK_OrientPriority.AFD_FSDK_OPF_0_HIGHER_EXT, 32, MAX_FACE_NUM);
+	//ret等于0则表示初始化成功，否则失败
 	if (ret.longValue() != 0)
 	{
+	    //释放分配的资源
 	    CLibrary.INSTANCE.free(pFDWorkMem);
 	    CLibrary.INSTANCE.free(pFRWorkMem);
 	    System.out.println(String.format("AFD_FSDK_InitialFaceEngine ret 0x%x", ret.longValue()));
 	    System.exit(0);
 	}
 
-	// print FDEngine version
+	
 	Pointer hFDEngine = phFDEngine.getValue();
+	// print FDEngine version
 	AFD_FSDK_Version versionFD = AFD_FSDKLibrary.INSTANCE.AFD_FSDK_GetVersion(hFDEngine);
 	System.out.println(String.format("%d %d %d %d", versionFD.lCodebase, versionFD.lMajor, versionFD.lMinor,
 		versionFD.lBuild));
@@ -68,6 +73,7 @@ public class ArcfaceUtils
 	System.out.println(versionFD.CopyRight);
 
 	PointerByReference phFREngine = new PointerByReference();
+	
 	ret = AFR_FSDKLibrary.INSTANCE.AFR_FSDK_InitialEngine(APPID, FR_SDKKEY, pFRWorkMem, FR_WORKBUF_SIZE,
 		phFREngine);
 	if (ret.longValue() != 0)
@@ -107,8 +113,8 @@ public class ArcfaceUtils
 	    inputImgB = loadRAWImage(filePathB, yuv_widthB, yuv_heightB, yuv_formatB);
 	} else
 	{
-	    String filePathA = "llj2.jpg";
-	    String filePathB = "ceo2.jpg";
+	    String filePathA = "timg.jpg";
+	    String filePathB = "celian.jpg";
 
 	    inputImgA = loadImage(filePathA);
 	    inputImgB = loadImage(filePathB);
@@ -193,7 +199,7 @@ public class ArcfaceUtils
     }
 
     /**
-     * 根据文件获取特质值对象
+     * 根据文件获取特征值对象
      * 
      * @param imageFile
      * @return
@@ -289,7 +295,7 @@ public class ArcfaceUtils
 	AFR_FSDK_FACEMODEL faceFeature = new AFR_FSDK_FACEMODEL();
 	NativeLong ret2 = AFR_FSDKLibrary.INSTANCE.AFR_FSDK_ExtractFRFeature(hFREngine, inputImg, faceinput,
 		faceFeature);
-	if (ret.longValue() != 0)
+	if (ret2.longValue() != 0)
 	{
 	    System.out.println(String.format("AFR_FSDK_ExtractFRFeature ret2 0x%x", ret2.longValue()));
 	    // release Engine
@@ -407,6 +413,7 @@ public class ArcfaceUtils
 	    System.out.println("no face in Image A ");
 	    return 0.0f;
 	}
+	System.out.println("-------------------pictureA中识别的人脸个数："+faceInfosA.length);
 
 	FaceInfo[] faceInfosB = doFaceDetection(hFDEngine, inputImgB);
 	if (faceInfosB.length < 1)
@@ -414,7 +421,8 @@ public class ArcfaceUtils
 	    System.out.println("no face in Image B ");
 	    return 0.0f;
 	}
-
+	System.out.println("--------------------pictureB中识别的人脸个数："+faceInfosB.length);
+	// TODO 此处只默认一张脸，是否要对图片中的所有脸进行比对呢？
 	// Extract Face Feature
 	AFR_FSDK_FACEMODEL faceFeatureA = extractFRFeature(hFREngine, inputImgA, faceInfosA[0]);
 	if (faceFeatureA == null)
@@ -423,6 +431,7 @@ public class ArcfaceUtils
 	    return 0.0f;
 	}
 
+	//TODO 图片中如果有多长脸不会报错，但是值会比较识别的某一张脸
 	AFR_FSDK_FACEMODEL faceFeatureB = extractFRFeature(hFREngine, inputImgB, faceInfosB[0]);
 	if (faceFeatureB == null)
 	{
