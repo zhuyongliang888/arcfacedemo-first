@@ -134,15 +134,13 @@ public class FaceRecognitionController
 	if (faceModeStringList == null)
 	{
 	    faceModeStringList = new ArrayList<Map<String, String>>();
-	    //此时需要去判断下存放图片的目录中是否存在图片,如果存在的话，将其中的所有图片特征值放入redis一份
+	    // 此时需要去判断下存放图片的目录中是否存在图片,如果存在的话，将其中的所有图片特征值放入redis一份
 
 	}
-	
-	
-	
+
 	// 1.获取此图片文件的特征值
 	String faceModeString = getFaceModelValueString(dest);
-	System.out.println("-------------------------将获取的图片特征值装换成String\n"+faceModeString);
+	System.out.println("-------------------------将获取的图片特征值装换成String\n" + faceModeString);
 	if (StringUtils.isEmpty(faceModeString))
 	{
 	    // 获取特征值失败
@@ -158,13 +156,13 @@ public class FaceRecognitionController
 	valueMap.put(FACEMODE, faceModeString);
 	faceModeStringList.add(valueMap);
 	redisUtils.saveObject(DEVICE_ID, faceModeStringList);
-	
-	
-	//测试一下
-//	@SuppressWarnings("unchecked")
-//	List<Map<String, String>> testList = (List<Map<String,String>>)redisUtils.getObject(DEVICE_ID);
-//	Map<String,String> tempMap =testList.get(0);
-//	System.out.println("从redis中再取出后的特征值\n"+tempMap.get(FACEMODE));
+
+	// 测试一下
+	// @SuppressWarnings("unchecked")
+	// List<Map<String, String>> testList =
+	// (List<Map<String,String>>)redisUtils.getObject(DEVICE_ID);
+	// Map<String,String> tempMap =testList.get(0);
+	// System.out.println("从redis中再取出后的特征值\n"+tempMap.get(FACEMODE));
 
 	commonResponseBody.setCode(0);
 	commonResponseBody.setMessage("SUCCESS!");
@@ -239,12 +237,12 @@ public class FaceRecognitionController
 	    LOGGER.error("get the face mode value fail!");
 	    return JSON.toJSONString(commonResponseBody, SerializerFeature.WriteMapNullValue);
 	}
-	
-	 deleteFile(tempDest);
 
-	CommonDataResponse<Map<String,Object>> commonDataResponse = new CommonDataResponse<>();
-	Map<String,Object> tempResultMap = new HashMap<>();
-	
+	deleteFile(tempDest);
+
+	CommonDataResponse<Map<String, Object>> commonDataResponse = new CommonDataResponse<>();
+	Map<String, Object> tempResultMap = new HashMap<>();
+
 	// 比较此特征值比较后的相似度是否大于75%
 	// 1.根据key 值 DEVICE_ID的值从redis中获取value --List<Map<String,String>
 	@SuppressWarnings("unchecked")
@@ -259,17 +257,18 @@ public class FaceRecognitionController
 	    LOGGER.error("compare fail");
 	    return JSON.toJSONString(commonDataResponse, SerializerFeature.WriteMapNullValue);
 	}
-	System.out.println("faceModeStringList.size()=="+faceModeStringList.size());
-	//判断图片能否识别
+	System.out.println("faceModeStringList.size()==" + faceModeStringList.size());
+	// 判断图片能否识别
 	boolean isSuccess = false;
-	String resultName ="";
-	for (int i=0;i<faceModeStringList.size();i++)
-	{   Map<String, String> tempMap = faceModeStringList.get(i);
+	String resultName = "";
+	for (int i = 0; i < faceModeStringList.size(); i++)
+	{
+	    Map<String, String> tempMap = faceModeStringList.get(i);
 	    String tempFaceModeString = tempMap.get(FACEMODE);
 	    if (StringUtils.isEmpty(tempFaceModeString))
 	    {
 		continue;
-		
+
 	    }
 
 	    byte[] tempfaceModeBytes = StringUtils.hexStringToByteArray(tempFaceModeString);
@@ -290,22 +289,23 @@ public class FaceRecognitionController
 		// 获得比较值
 		float compareFaceSimilarityValue = ArcfaceUtils.compareFaceSimilarity(faceMode, tempFaceModel);
 		tempFaceModel.freeUnmanaged();
-		LOGGER.debug("compareFaceSimilarityValue=="+compareFaceSimilarityValue);
+		LOGGER.debug("compareFaceSimilarityValue==" + compareFaceSimilarityValue);
 		if (compareFaceSimilarityValue >= SIMILARITY_VALUE)
 		{
 		    System.out.println("recognize success!");
 		    isSuccess = true;
 		    resultName = tempMap.get(P_NAME);
-		    
+
 		    break;
 		}
 	    }
 	}
 	faceMode.freeUnmanaged();
-	
-	LOGGER.debug("COMPARE SUCCESS OR FAIL:"+isSuccess);
-	if(isSuccess) {
-	    //返回成功识别
+
+	LOGGER.debug("COMPARE SUCCESS OR FAIL:" + isSuccess);
+	if (isSuccess)
+	{
+	    // 返回成功识别
 	    // 直接返回不能识别
 	    commonDataResponse.setCode(0);
 	    commonDataResponse.setMessage("compare success!");
@@ -315,8 +315,9 @@ public class FaceRecognitionController
 	    response.setStatus(200);
 	    LOGGER.debug("compare success");
 	    return JSON.toJSONString(commonDataResponse, SerializerFeature.WriteMapNullValue);
-	}else {
-	    //返回无法识别
+	} else
+	{
+	    // 返回无法识别
 	    // 直接返回不能识别
 	    commonDataResponse.setCode(0);
 	    commonDataResponse.setMessage("compare fail!");
@@ -338,7 +339,7 @@ public class FaceRecognitionController
     {
 	for (File file : files)
 	{
-	    if (null!=file && file.exists())
+	    if (null != file && file.exists())
 	    {
 		file.delete();
 	    }
@@ -355,7 +356,8 @@ public class FaceRecognitionController
     {
 	String resultStr = "";
 	AFR_FSDK_FACEMODEL faceModel = ArcfaceUtils.extractFRFeature(dest);
-	if(faceModel==null) {
+	if (faceModel == null)
+	{
 	    return "";
 	}
 	try
